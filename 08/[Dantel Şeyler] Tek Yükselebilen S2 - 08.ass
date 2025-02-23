@@ -1,0 +1,595 @@
+﻿[Script Info]
+Title: Dantel Entel & Hoşumuza Giden Şeyler
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Amazon Ember,69,&H00FFFFFF,&H000000FF,&H00000000,&H5F000000,0,0,0,0,100,100,0,0,1,3.2,1.5,2,250,250,60,1
+Style: Alt,Amazon Ember,69,&H00FFFFFF,&H000000FF,&H00622D0B,&H5F000000,0,0,0,0,100,100,0,0,1,3.2,1.5,2,250,250,60,1
+Style: e-ts,Amazon Ember,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,0
+Style: OPL,Oxanium Light,77,&H00FFFFFF,&H00979797,&HC9000000,&H14000000,-1,0,0,0,100,100,0,0,1,4,0,2,50,50,37,1
+Style: EDL,Lato Light,69,&H00FFFFFF,&H000000FF,&H00000000,&H40000000,0,0,0,0,100,100,0,0,1,2,0,8,250,250,35,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 20,0:00:08.93,0:00:10.38,Default,,0,0,0,,Teslim oluyorum!
+Dialogue: 20,0:00:11.10,0:00:14.09,Default,,0,0,0,,Teslim oluyorum!\NLütfen canımı bağışlayın!
+Dialogue: 20,0:00:15.30,0:00:18.03,Default,,0,0,0,,Bu ses... Yoksa sen...
+Dialogue: 20,0:00:26.51,0:00:29.78,Default,,0,0,0,,Özürlerimi sunarım! Beni yendiniz!
+Dialogue: 20,0:00:29.78,0:00:31.83,Default,,0,0,0,,Ne olur beni öldürmeyin!
+Dialogue: 20,0:02:04.16,0:02:07.01,Default,,0,0,0,,Önce bize saldırıp, sonra da canının\Nbağışlanmasını mı istiyorsun?
+Dialogue: 20,0:02:07.43,0:02:09.94,Default,,0,0,0,,Hem de tüm adamların öldükten sonra.
+Dialogue: 20,0:02:10.29,0:02:13.32,Default,,0,0,0,,Şövalyelerin vazifesi\Nefendilerini korumak olduğundan...
+Dialogue: 20,0:02:13.32,0:02:16.76,Default,,0,0,0,,...yaşadığım sürece memnun olacaklardır.
+Dialogue: 20,0:02:18.10,0:02:19.82,Default,,0,0,0,,{\i1}Memnun mu olacaklar?
+Dialogue: 20,0:02:20.31,0:02:21.25,Default,,0,0,0,,Neyse ne.
+Dialogue: 20,0:02:27.75,0:02:28.96,Default,,0,0,0,,{\i1}İşte fırsat!
+Dialogue: 20,0:02:35.11,0:02:36.39,Default,,0,0,0,,Ne halt ettiğini sanıyorsun?
+Dialogue: 20,0:02:36.79,0:02:41.67,Default,,0,0,0,,Canımı bağışlarsanız ne isterseniz yaparım!{this line seems familiar :D}\NNe olur beni öldürmeyin!
+Dialogue: 20,0:02:41.67,0:02:42.94,Default,,0,0,0,,{\i1}Çattık...
+Dialogue: 20,0:02:44.11,0:02:48.02,Default,,0,0,0,,Madem öyle, sonraki kata geçiş\Nizninin yerini biliyor musun?
+Dialogue: 20,0:02:48.02,0:02:52.10,Default,,0,0,0,,Geçiş izni hanemizin himayesinde.
+Dialogue: 20,0:02:52.10,0:02:55.30,Default,,0,0,0,,Canımı almadığınız için\Nmemnuniyetle size sunabilirim!
+Dialogue: 20,0:02:55.30,0:02:58.96,Default,,0,0,0,,Diğer katlardaki izinlerin yerini de biliyorum!
+Dialogue: 20,0:02:58.96,0:03:03.45,Default,,0,0,0,,Hanemizin güvenliğini garanti\Nederseniz, size yerlerini gösterebilirim.
+Dialogue: 20,0:03:03.88,0:03:06.17,Default,,0,0,0,,Demek siz gizliyordunuz.
+Dialogue: 20,0:03:06.56,0:03:09.67,Default,,0,0,0,,Onca iblis gebertmeme rağmen\Nneden bulamadığım belli oldu.
+Dialogue: 20,0:03:09.92,0:03:11.59,Default,,0,0,0,,Asıl soru şu...
+Dialogue: 20,0:03:13.55,0:03:17.26,Default,,0,0,0,,Sana güvenebilir miyim?
+Dialogue: 20,0:03:18.20,0:03:19.97,Default,,0,0,0,,Kesinlikle.
+Dialogue: 20,0:03:20.50,0:03:24.18,Default,,0,0,0,,Size asla yalan söylemem.
+Dialogue: 20,0:03:26.69,0:03:30.67,Default,,0,0,0,,Öyle olsun. Geçiş iznini verirseniz\Nsize zarar vermeyeceğim.
+Dialogue: 20,0:03:31.98,0:03:34.49,Default,,0,0,0,,Çok teşekkür ederim.
+Dialogue: 20,0:03:35.55,0:03:36.82,Default,,0,0,0,,Aklıma takıldı...
+Dialogue: 20,0:03:37.49,0:03:39.25,Default,,0,0,0,,...siz tam olarak nesiniz?
+Dialogue: 20,0:03:56.42,0:03:59.43,Default,,0,0,0,,Radiru hanesinin en büyük kızıyım, adım Esil.
+Dialogue: 20,0:03:59.43,0:04:02.64,Default,,0,0,0,,Onu demek istememiştim.
+Dialogue: 20,0:04:04.33,0:04:07.74,Default,,0,0,0,,{\i1}Barca'dan edindiğim gibi\Nbaşka yaratıklardan da sistem hakkında...
+Dialogue: 20,0:04:07.74,0:04:09.51,Default,,0,0,0,,{\i1}...bilgi edinebilirim diye\Ndüşünüyordum ama...
+Dialogue: 20,0:04:10.86,0:04:15.63,Default,,0,0,0,,Kafanızın içinde durmaksızın insanları\Nöldürmenizi söyleyen bir ses duyuyor musunuz?
+Dialogue: 20,0:04:18.41,0:04:21.79,Default,,0,0,0,,Hayır, başka bir emir duyuyoruz.
+Dialogue: 20,0:04:21.79,0:04:22.70,Default,,0,0,0,,Ne gibi?
+Dialogue: 20,0:04:23.66,0:04:25.66,Default,,0,0,0,,"Bulunduğunuz yeri koruyun."
+Dialogue: 20,0:04:26.68,0:04:27.62,Default,,0,0,0,,Ne zamandır?
+Dialogue: 20,0:04:27.62,0:04:29.83,Default,,0,0,0,,Buraya geldiğimizden beri.
+Dialogue: 20,0:04:29.83,0:04:31.46,Default,,0,0,0,,{\i1}Buraya gelmek mi?
+Dialogue: 20,0:04:32.18,0:04:33.62,Default,,0,0,0,,Gelmeden önce neredeydiniz?
+Dialogue: 20,0:04:33.62,0:04:38.31,Default,,0,0,0,,İblis diyarındaydık.\NAma günün birinde aniden burada uyandık.
+Dialogue: 20,0:04:39.03,0:04:42.01,Default,,0,0,0,,İblis diyarında ne yapıyordunuz?
+Dialogue: 20,0:04:44.95,0:04:45.93,Default,,0,0,0,,Savaşa...
+Dialogue: 20,0:04:47.03,0:04:49.39,Default,,0,0,0,,Savaşa hazırlanıyorduk.
+Dialogue: 20,0:04:49.68,0:04:51.10,Default,,0,0,0,,{\i1}Savaş mı?
+Dialogue: 20,0:04:51.10,0:04:52.20,Default,,0,0,0,,Kiminle?
+Dialogue: 20,0:04:53.28,0:04:57.65,Default,,0,0,0,,Karşısına çıkmak için tüm iblisoğullarını\Nbirleştirmemizin gerektiği güçte bir düşmanla.
+Dialogue: 20,0:04:58.11,0:05:01.47,Default,,0,0,0,,Tam savaşa girecekken...
+Dialogue: 20,0:05:03.45,0:05:11.38,Default,,0,0,0,,{\fad(150,200)\t(3657,3900,\alpha&HFF)\t(4050,4200,\alpha&H00)}İzin verilenden fazla bilgi sağlandığı\Niçin konuşma sonlandırılıyor...
+Dialogue: 20,0:05:11.38,0:05:12.17,Default,,0,0,0,,{\fad(300,0)}İzin verilenden...
+Dialogue: 20,0:05:17.28,0:05:19.42,Default,,0,0,0,,{\i1}Sanırım daha fazla bilgi alamayacağım.
+Dialogue: 20,0:05:22.13,0:05:25.67,Default,,0,0,0,,Bunlar Japonya karasularında\Nkalan bir adada görülen...
+Dialogue: 20,0:05:25.67,0:05:29.93,Default,,0,0,0,,...kanatlı bir karıncanın\Nhasar ve mücadele kayıtları.
+Dialogue: 20,0:05:30.63,0:05:36.68,Default,,0,0,0,,294 sivil öldü, tehlikenin bertaraf edilebilmesi\Niçin de bölgeye 108 tane avcı iletildi.
+Dialogue: 20,0:05:36.68,0:05:41.65,Default,,0,0,0,,Bir diğer bilgi olarak da, mücadelede dört E\Nbir C ve bir B sınıfı avcı kaybettik.
+Dialogue: 20,0:05:42.86,0:05:45.62,Default,,0,0,0,,Tüm kayıplar tek bir karınca yüzünden...
+Dialogue: 20,0:05:46.05,0:05:51.54,Default,,0,0,0,,Bölgeye sonradan intikal eden bir A sınıfı avcının\Nson vuruşu ile karınca yok edildi.
+Dialogue: 20,0:05:51.54,0:05:55.29,Default,,0,0,0,,O halde bu kanatlı karıncalar A sınıfı diyebiliriz.
+Dialogue: 20,0:05:55.80,0:06:00.55,Default,,0,0,0,,Teftiş Kurulunun tamamladığı\Notopsi sonuçları da bu yönde.
+Dialogue: 20,0:06:03.40,0:06:07.55,Default,,0,0,0,,Saldırı Jeju Adasından\N120 kilometre uzakta gerçekleşti.
+Dialogue: 20,0:06:08.23,0:06:14.06,Default,,0,0,0,,Eğer uçma becerileri daha da gelişirse\Nana karaya ulaşmaları an meselesi demektir.
+Dialogue: 20,0:06:14.99,0:06:17.55,Default,,0,0,0,,Derhal ortak operasyon\Nisteğimizi Japonya'ya iletin.
+Dialogue: 20,0:06:18.07,0:06:21.87,Default,,0,0,0,,Komşu ülkelere de tehlike\Nseviyelerini yükseltme bilgisi verin.
+Dialogue: 20,0:06:21.87,0:06:22.87,Default,,0,0,0,,Emredersiniz.
+Dialogue: 20,0:06:22.87,0:06:26.53,Default,,0,0,0,,Vakit geldi.\NKaybedecek bir dakikamız bile yok.
+Dialogue: 20,0:06:26.53,0:06:30.94,Default,,0,0,0,,Daha fazla kayıp vermeden halletmek isterdim ama...
+Dialogue: 20,0:06:31.84,0:06:35.98,Default,,0,0,0,,Avcılar Birliği Başkanı sıfatıyla\Nyetkilerime dayanarak...
+Dialogue: 20,0:06:35.98,0:06:39.42,Default,,0,0,0,,...Jeju Adasına yapılacak dördüncü baskını\Nresmen yürürlüğe koyuyorum!
+Dialogue: 20,0:06:41.31,0:06:43.01,Default,,0,0,0,,Özür dilerim.
+Dialogue: 20,0:06:43.01,0:06:46.43,Default,,0,0,0,,Neden bir anda bayıldığımı anlamadım.
+Dialogue: 20,0:06:46.43,0:06:48.62,Default,,0,0,0,,Sorun değil.
+Dialogue: 20,0:06:49.10,0:06:50.89,Default,,0,0,0,,Daha iyi misin?
+Dialogue: 20,0:06:50.89,0:06:53.11,Default,,0,0,0,,Evet, teşekkür ederim.
+Dialogue: 20,0:06:53.11,0:06:55.61,Default,,0,0,0,,Benim için endişelendiniz mi?..
+Dialogue: 20,0:06:55.61,0:06:57.31,Default,,0,0,0,,Öylesine sormuştum.
+Dialogue: 20,0:06:58.56,0:07:01.53,Default,,0,0,0,,Asıl konumuza dönelim, hedefimize yakın mıyız?
+Dialogue: 20,0:07:02.15,0:07:05.40,Default,,0,0,0,,Doğru ya! Radiru kalesi.
+Dialogue: 20,0:07:05.40,0:07:07.44,Default,,0,0,0,,Giriş izni orada.
+Dialogue: 20,0:07:08.70,0:07:11.29,Default,,0,0,0,,Evine nasıl bir kötülük getirdiğinin farkında mısın?
+Dialogue: 20,0:07:11.29,0:07:12.67,Default,,0,0,0,,Esil!
+Dialogue: 20,0:07:13.25,0:07:15.41,Default,,0,0,0,,Yoksa gölgesini...
+Dialogue: 20,0:07:15.41,0:07:18.92,Default,,0,0,0,,...mesken edinmiş orduyu fark etmedin mi?
+Dialogue: 20,0:07:19.29,0:07:21.88,Default,,0,0,0,,{\i1}Bak sen...\NGözleri keskinmiş.
+Dialogue: 20,0:07:21.88,0:07:25.35,Default,,0,0,0,,Kalemizi ele geçirmek için kızımı kandırdıysan...
+Dialogue: 20,0:07:25.35,0:07:26.97,Default,,0,0,0,,...buradan canlı çıkamazsın!
+Dialogue: 20,0:07:26.97,0:07:29.80,Default,,0,0,0,,Baba! Dur lütfen!
+Dialogue: 20,0:07:29.80,0:07:32.24,Default,,0,0,0,,Kızınla bir anlaşma yaptık.
+Dialogue: 20,0:07:32.24,0:07:35.52,Default,,0,0,0,,Sonraki katın giriş iznini verirseniz\Nkimseye zarar gelmeyecek.
+Dialogue: 20,0:07:37.81,0:07:41.19,Default,,0,0,0,,{\i1}Vulkan'la Metus'un geberip gittiği haberi kulağıma gelmişti...
+Dialogue: 20,0:07:41.19,0:07:45.45,Default,,0,0,0,,{\i1}Onları öldüren birinin karşısında\Nşansımız olduğunu hiç sanmıyorum.
+Dialogue: 20,0:07:56.26,0:07:58.07,Default,,0,0,0,,Tamamdır, sözünüzü tuttunuz.
+Dialogue: 20,0:07:58.67,0:08:01.76,Default,,0,0,0,,Sanırım buradaki işin bitti.
+Dialogue: 20,0:08:01.76,0:08:03.50,Default,,0,0,0,,Hemen burayı terk et!
+Dialogue: 20,0:08:03.50,0:08:04.96,Default,,0,0,0,,Bir şey daha var.
+Dialogue: 20,0:08:06.11,0:08:07.42,Default,,0,0,0,,Kız da benimle geliyor.
+Dialogue: 20,0:08:09.43,0:08:11.51,Default,,0,0,0,,Seni...
+Dialogue: 20,0:08:11.51,0:08:14.43,Default,,0,0,0,,Yanlış anlama.\NBana rehberlik etmek için.
+Dialogue: 20,0:08:14.43,0:08:17.80,Default,,0,0,0,,Kat geçiş izinlerinin nerede\Nolduklarını bildiğinden bahsetti.
+Dialogue: 20,0:08:19.06,0:08:21.06,Default,,0,0,0,,Peki yanında güvende olacağına söz verir misin?
+Dialogue: 20,0:08:21.06,0:08:22.08,Default,,0,0,0,,Kesinlikle.
+Dialogue: 20,0:08:25.02,0:08:27.69,Default,,0,0,0,,Peki öyleyse.
+Dialogue: 20,0:08:27.69,0:08:30.80,Default,,0,0,0,,Madem anlaştık...\NGerisi sende Esil.
+Dialogue: 20,0:08:30.80,0:08:31.95,Default,,0,0,0,,Emredersiniz!
+Dialogue: 20,0:08:44.34,0:08:45.50,Default,,0,0,0,,Liderim.
+Dialogue: 20,0:08:56.09,0:08:59.23,Default,,0,0,0,,Böylece 89'u da temizledik.
+Dialogue: 20,0:09:01.10,0:09:04.11,Default,,0,0,0,,İgris'le Tank da kazandıkları\Ndeneyim puanlarıyla sınıf atladı.
+Dialogue: 20,0:09:05.73,0:09:08.54,Default,,0,0,0,,Artık S ve A sınıfına denkler.
+Dialogue: 20,0:09:08.54,0:09:10.64,Default,,0,0,0,,Gücüme güç kattılar.
+Dialogue: 20,0:09:13.91,0:09:17.04,Default,,0,0,0,,Belki pazarlık ederiz diye bunları getirmiştim...
+Dialogue: 20,0:09:17.04,0:09:19.05,Default,,0,0,0,,Boş yere yanımda taşımışım.
+Dialogue: 20,0:09:19.05,0:09:20.91,Default,,0,0,0,,Geri götürebilirsin.
+Dialogue: 20,0:09:20.91,0:09:22.80,Default,,0,0,0,,Maalesef mümkün değil.
+Dialogue: 20,0:09:22.80,0:09:26.09,Default,,0,0,0,,90. kat ve sonrası\Nseçkin asillerin himayesi altında.
+Dialogue: 20,0:09:26.58,0:09:29.55,Default,,0,0,0,,Buraya kadar karşılaştığınız\Nrakiplere göre çok daha güçlüdürler.
+Dialogue: 20,0:09:30.01,0:09:33.36,Default,,0,0,0,,Bu yüzden geçiş izinlerini\Npazarlık ederek almak çok daha akıllıca...
+Dialogue: 20,0:09:33.36,0:09:37.76,Default,,0,0,0,,Sizden daha zayıf olsam, benimle \Nanlaşma yapmaya gerek duyar mıydınız?
+Dialogue: 20,0:09:39.00,0:09:40.73,Default,,0,0,0,,İşler böyle yürür.
+Dialogue: 20,0:09:41.15,0:09:44.81,Default,,0,0,0,,Asilzade iblisler hiyerarşi merdivenlerini\Ntırmanmak için rekabet eder, değil mi?
+Dialogue: 20,0:09:44.81,0:09:48.57,Default,,0,0,0,,Radisuları hiyerarşinin\Nen tepesine koymak üzereyim.
+Dialogue: 20,0:09:48.94,0:09:50.92,Default,,0,0,0,,Gerçi adımız Radiru ama...
+Dialogue: 20,0:09:50.92,0:09:56.53,Default,,0,0,0,,Efendi Jinu, neden hanemi bağışlamayı seçtiniz?
+Dialogue: 20,0:09:56.98,0:09:58.74,Default,,0,0,0,,Senden hoşlandım da ondan.
+Dialogue: 20,0:09:58.74,0:10:00.95,Default,,0,0,0,,Anlamadım?
+Dialogue: 20,0:10:01.33,0:10:02.95,Default,,0,0,0,,{\i1}Jinho'ya benziyor...
+Dialogue: 20,0:10:03.38,0:10:07.67,Default,,0,0,0,,{\i1}Belli ki kafadan kontak\Nolanlarla iyi anlaşıyorum.
+Dialogue: 20,0:10:08.22,0:10:10.05,Default,,0,0,0,,Artık evine dönebilirsin.
+Dialogue: 20,0:10:12.58,0:10:15.34,Default,,0,0,0,,Buradan sonra rakipler\Nçok daha güçlü olacak demedin mi?
+Dialogue: 20,0:10:15.62,0:10:17.54,Default,,0,0,0,,Babana bir söz verdim.
+Dialogue: 20,0:10:17.54,0:10:21.68,Default,,0,0,0,,İzinlerin yerini söyle, kalanını yalnız hallederim.
+Dialogue: 20,0:10:22.12,0:10:25.40,Default,,0,0,0,,İşinize hiç mi yaramıyorum?
+Dialogue: 20,0:10:25.40,0:10:28.76,Default,,0,0,0,,Yanlış anlama.\NTehlikeli olacağını düşünüyorum.
+Dialogue: 20,0:10:28.76,0:10:31.10,Default,,0,0,0,,Çok yardımcı oldun.\NTeşekkür ederim.
+Dialogue: 20,0:10:32.15,0:10:34.57,Default,,0,0,0,,Size yolculuğunuzun sonuna kadar eşlik edeceğim.
+Dialogue: 20,0:10:34.57,0:10:38.43,Default,,0,0,0,,Neler başaracağınıza kendi gözlerimle\Ntanık olmak istiyorum Efendi Jinu!
+Dialogue: 20,0:10:40.04,0:10:41.50,Default,,0,0,0,,Peki.
+Dialogue: 20,0:10:41.50,0:10:42.78,Default,,0,0,0,,O halde yola koyulalım.
+Dialogue: 20,0:10:44.16,0:10:45.21,Default,,0,0,0,,Emredersiniz!
+Dialogue: 20,0:10:48.84,0:10:53.05,Default,,0,0,0,,{\i1}Esil haklıymış.\N90. kat itibarıyla zorluk seviyesi tavan yaptı.
+Dialogue: 20,0:10:53.75,0:10:56.58,Default,,0,0,0,,{\i1}Her bir iblis kampıyla fark ediyorum ki...
+Dialogue: 20,0:10:56.58,0:10:58.93,Default,,0,0,0,,{\i1}...düşmanlar giderek kalabalıklaşıyor ve güçleniyor.
+Dialogue: 20,0:10:59.43,0:11:03.56,Default,,0,0,0,,{\i1}Ama süratle ilerlemeye devam edip\Nkatları teker teker tamamlıyorum.
+Dialogue: 20,0:11:05.11,0:11:10.42,Default,,0,0,0,,{\i1}Ne olursa olsun, Ab-ı Hayat için\Ngereken malzemeleri toplamam lazım.
+Dialogue: 20,0:11:14.28,0:11:19.16,Default,,0,0,0,,İkimiz de Jeju Adası baskınına davet edildik avcı Ça.
+Dialogue: 20,0:11:19.16,0:11:20.16,Default,,0,0,0,,Anlaşıldı efendim.
+Dialogue: 20,0:11:20.16,0:11:23.95,Default,,0,0,0,,Bizim dışımızda, Beyaz Kaplanların lideri Pek...
+Dialogue: 20,0:11:23.95,0:11:27.82,Default,,0,0,0,,...ve ülkedeki tüm diğer\NS sınıfı avcılar baskına davetli.
+Dialogue: 20,0:11:28.27,0:11:30.67,Default,,0,0,0,,{\i1}O halde avcı Sang da...
+Dialogue: 20,0:11:30.67,0:11:32.35,Default,,0,0,0,,Bunun dışında...
+Dialogue: 20,0:11:32.35,0:11:36.63,Default,,0,0,0,,...baskın biz ve sınır komşumuzla ortak\Nbir karma operasyon olarak hazırlandı.
+Dialogue: 20,0:11:37.10,0:11:38.59,Default,,0,0,0,,Japonya'yla mı?
+Dialogue: 20,0:11:38.59,0:11:39.84,Default,,0,0,0,,Evet.
+Dialogue: 20,0:11:39.84,0:11:44.85,Default,,0,0,0,,Karıncaların uçabildiği\Ndüşünüldüğünde, onlar da tehlike altında.
+Dialogue: 20,0:11:44.85,0:11:46.66,Default,,0,0,0,,Mantıklı bir karar.
+Dialogue: 20,0:11:48.07,0:11:52.57,Default,,0,0,0,,{\i1}Açıkçası hepsini gebertebildiğimiz sürece\Nkiminle omuz omuza olduğumuz umurumda değil.
+Dialogue: 20,0:11:53.43,0:11:55.03,Default,,0,0,0,,Baskın için tarih verildi mi?
+Dialogue: 20,0:11:55.29,0:11:56.73,Default,,0,0,0,,Görüşmeler devam ediyor.
+Dialogue: 20,0:11:56.73,0:11:59.41,Default,,0,0,0,,Ama yakın bir tarih seçileceği neredeyse kesin.
+Dialogue: 20,0:11:59.83,0:12:03.41,Default,,0,0,0,,Ayrıca harekatın nasıl\Nyürütüleceğine karar vermek üzere...
+Dialogue: 20,0:12:03.41,0:12:07.73,Default,,0,0,0,,...bölgenin en büyük loncalarına mensup\Navcılar da bugün aramıza katılacak.
+Dialogue: 20,0:12:12.06,0:12:13.71,Default,,0,0,0,,Sonunda buradayız.
+Dialogue: 20,0:12:14.09,0:12:16.42,Default,,0,0,0,,Gerçi etrafta kimse yok gibi...
+Dialogue: 20,0:12:31.30,0:12:34.07,Default,,0,0,0,,Demek bahsedilen İblis Hükümdarı sensin...
+Dialogue: 20,0:12:35.03,0:12:36.16,Default,,0,0,0,,...Baran!
+Dialogue: 20,0:12:44.08,0:12:46.03,Default,,0,0,0,,{\i1}İnanılmaz bir büyü gücü var.
+Dialogue: 20,0:12:46.03,0:12:48.08,Default,,0,0,0,,{\i1}Onu yenebilir miyim?
+Dialogue: 20,0:12:48.66,0:12:51.06,Default,,0,0,0,,{\i1}Kana susamışlığı dizlerimi titretiyor...
+Dialogue: 20,0:12:51.79,0:12:54.02,Default,,0,0,0,,{\i1}Esil bile durumun farkında.
+Dialogue: 20,0:12:54.83,0:12:57.92,Default,,0,0,0,,{\i1}Uçmaya başlarsa başıma bela olacağı kesin.
+Dialogue: 20,0:12:58.92,0:13:01.80,Default,,0,0,0,,{\i1}Ejder mi?\Nİblislerden fazlasını kontrol edebiliyor yani.
+Dialogue: 20,0:13:26.99,0:13:28.57,Default,,0,0,0,,Biraz kalabalıksınız sanki.
+Dialogue: 20,0:13:29.12,0:13:31.16,Default,,0,0,0,,Şimdi ne yapacağız?
+Dialogue: 20,0:13:33.38,0:13:34.33,Default,,0,0,0,,Efendi Jinu!
+Dialogue: 20,0:13:34.62,0:13:35.79,Default,,0,0,0,,Farkındayım!
+Dialogue: 20,0:13:38.80,0:13:40.06,Default,,0,0,0,,Ortaya çıkın!
+Dialogue: 20,0:14:00.19,0:14:04.45,Default,,0,0,0,,İnanılmaz!\NBu şekilde savaşabildiğini hiç bilmiyordum.
+Dialogue: 20,0:14:05.35,0:14:08.18,Default,,0,0,0,,{\i1}Ama... Karşısındaki, İblis Hükümdarı Baran.
+Dialogue: 20,0:14:08.18,0:14:09.45,Default,,0,0,0,,{\i1}Buralara o hükmeder...
+Dialogue: 20,0:14:09.83,0:14:13.92,Default,,0,0,0,,{\i1}Efendi Jinu'ysa bir istilacı.\NYok edilmesi gereken bir hedef sadece.
+Dialogue: 20,0:14:14.71,0:14:18.42,Default,,0,0,0,,{\i1}Kimin tarafını tutmalıyım?
+Dialogue: 20,0:14:48.14,0:14:50.01,Default,,0,0,0,,{\i1}Öyle sıradan bir yıldırım değil.
+Dialogue: 20,0:14:50.01,0:14:52.33,Default,,0,0,0,,{\i1}Etki alanı çok geniş ve vurduğunu sersemletiyor.
+Dialogue: 20,0:14:53.24,0:14:55.37,Default,,0,0,0,,{\i1}Askerlerimi tekrar çağırabiliyor olsam da...
+Dialogue: 20,0:14:55.37,0:14:58.47,Default,,0,0,0,,{\i1}...bu yıldırımları sürekli yerseler\Nbüyü gücüm hızla tükenir.
+Dialogue: 20,0:14:58.94,0:15:00.55,Default,,0,0,0,,{\i1}Bu olmadan önce...
+Dialogue: 20,0:15:10.32,0:15:11.89,Default,,0,0,0,,{\i1}...şu kanatlardan kurtulalım!
+Dialogue: 20,0:15:13.43,0:15:15.56,Default,,0,0,0,,{\i1}Gizlilik işe yaramadı mı?
+Dialogue: 20,0:15:24.53,0:15:26.22,Default,,0,0,0,,{\i1}Hemen harekete geçti!
+Dialogue: 20,0:15:26.22,0:15:28.08,Default,,0,0,0,,{\i1}Siktir, yetişiyor!
+Dialogue: 20,0:15:28.08,0:15:29.91,Default,,0,0,0,,Sivridiş! İgris!
+Dialogue: 20,0:15:56.47,0:15:58.33,Default,,0,0,0,,Sonunda toprak yüzü gördün.
+Dialogue: 20,0:15:59.10,0:16:03.07,Default,,0,0,0,,Yukarı bakmak yoruyordu.\NBöyle daha iyi oldu.
+Dialogue: 20,0:16:11.27,0:16:15.95,Default,,0,0,0,,Tanıştığımıza memnun oldum.\NAdım Hanekava, Angard Loncası üyesiyim.
+Dialogue: 20,0:16:15.95,0:16:18.55,Default,,0,0,0,,Beyefendi de liderimiz Riyuji Goto.
+Dialogue: 20,0:16:19.18,0:16:22.50,Default,,0,0,0,,Kendisinin tercümanlığını yapacağım.
+Dialogue: 20,0:16:22.79,0:16:24.76,Default,,0,0,0,,{\i1}Angard Loncası...
+Dialogue: 20,0:16:24.76,0:16:29.17,Default,,0,0,0,,{\i1}11 S sınıfı avcı mevcuduyla\NJaponya'nın en büyük loncası.
+Dialogue: 20,0:16:29.53,0:16:33.17,Default,,0,0,0,,{\i1}Asya'nın da en büyük ikinci\Nloncası oldukları söyleniyor.
+Dialogue: 20,0:16:33.17,0:16:37.52,Default,,0,0,0,,{\i1}Lonca liderleri de Riyuji Goto.
+Dialogue: 20,0:16:37.52,0:16:40.44,Default,,0,0,0,,{\i1}Ruhani gücü de hakkında\Nsöylenenleri onaylar nitelikte.
+Dialogue: 20,0:16:41.16,0:16:45.59,Default,,0,0,0,,Öncelikle bu ortak operasyon ve karma\Nsaldırı ekibi davetiniz için...
+Dialogue: 20,0:16:45.59,0:16:47.21,Default,,0,0,0,,...teşekkürlerimizi sunarız.
+Dialogue: 20,0:16:47.21,0:16:51.35,Default,,0,0,0,,Rica ederiz, asıl davetimize icabet\Nettiğiniz için biz teşekkür etmeliyiz.
+Dialogue: 20,0:16:51.35,0:16:53.49,Default,,0,0,0,,Şükranlarımızı sunarız.
+Dialogue: 20,0:16:53.82,0:16:55.89,Default,,0,0,0,,Aldığınız belgelerde belirtildiği üzere...
+Dialogue: 20,0:16:55.89,0:17:03.74,Default,,0,0,0,,...kanatlı karıncalar hakkındaki\Naraştırma bizim için oldukça bilgilendiriciydi.
+Dialogue: 20,0:17:04.47,0:17:08.72,Default,,0,0,0,,Bu operasyon için kritik denebilecek\Niki önemli detay bulunuyor.
+Dialogue: 20,0:17:09.48,0:17:11.22,Default,,0,0,0,,İlki yaşam süreleri.
+Dialogue: 20,0:17:11.22,0:17:16.18,Default,,0,0,0,,Karıncalar yumurtadan çıktıktan sonra hızla\Nbüyüseler de, sadece bir yıl yaşıyorlar.
+Dialogue: 20,0:17:16.18,0:17:19.13,Default,,0,0,0,,Diğer bir deyişle, kraliçelerini \Nöldürmeyi başarabilirsek...
+Dialogue: 20,0:17:19.13,0:17:22.40,Default,,0,0,0,,...kalan karıncalar bir sene\Niçinde yok olacaktır.
+Dialogue: 20,0:17:22.88,0:17:25.80,Default,,0,0,0,,Diğer konu da davranış kalıpları.
+Dialogue: 20,0:17:25.80,0:17:30.58,Default,,0,0,0,,Bundan önceki üç baskında\Ngözlemlediğimiz üzere, karıncalar...
+Dialogue: 20,0:17:30.58,0:17:34.37,Default,,0,0,0,,...büyü gücü fazla\Nolanlara saldırma eğiliminde.
+Dialogue: 20,0:17:34.37,0:17:39.01,Default,,0,0,0,,Operasyonu bu çerçevede planlayıp, karıncalara\Nbu noktalarda karşılık vermeyi düşünüyoruz.
+Dialogue: 20,0:17:39.65,0:17:43.56,Default,,0,0,0,,{\i1}Karıncaların eğilimlerinin\Nbiz de farkındaydık da...
+Dialogue: 20,0:17:43.56,0:17:46.89,Default,,0,0,0,,{\i1}...bu kadar detaylı\Nhazırlanmış olmaları inanılmaz.
+Dialogue: 20,0:17:47.93,0:17:49.85,Default,,0,0,0,,Plana gelirsek...
+Dialogue: 20,0:17:49.85,0:17:56.89,Default,,0,0,0,,Ben dahil, Angard Loncasının\N11 S sınıfından 10'u baskına katılacak.
+Dialogue: 20,0:17:57.84,0:17:59.77,Default,,0,0,0,,11'in 10'u mu?
+Dialogue: 20,0:18:00.09,0:18:02.56,Default,,0,0,0,,Karıncaları yuvalarından çıkaracağız.
+Dialogue: 20,0:18:02.56,0:18:06.56,Default,,0,0,0,,O sırada sizin de kraliçe\Nkarıncayı öldürmenizi istiyoruz.
+Dialogue: 20,0:18:06.56,0:18:09.67,Default,,0,0,0,,Ama bu durumda siz binlerce\Nkarıncayla savaşıyor olacaksınız...
+Dialogue: 20,0:18:10.15,0:18:13.43,Default,,0,0,0,,Yem görevi görüp dikkat dağıtmaktan\Nyana bir sorunumuz yok.
+Dialogue: 20,0:18:13.43,0:18:18.16,Default,,0,0,0,,Yapay zeka simülasyonlarına göre\Nen yüksek başarı yüzdesine böyle ulaşıyoruz.
+Dialogue: 20,0:18:18.83,0:18:23.52,Default,,0,0,0,,{\i1}On S sınıfı avcıyı sahaya\Nsürecek kapasitede değiliz...
+Dialogue: 20,0:18:23.52,0:18:25.00,Default,,0,0,0,,{\i1}Bu durumda...
+Dialogue: 20,0:18:25.00,0:18:30.47,Default,,0,0,0,,Peki o halde. Bu kapsamlı stratejiyi dikkate alarak\Ntaktiksel planlamaya geçelim.
+Dialogue: 20,0:18:39.15,0:18:41.60,Default,,0,0,0,,{\i1}İksirle büyü gücü dolduracak vakti bile bulamıyorum!
+Dialogue: 20,0:19:01.04,0:19:02.79,Default,,0,0,0,,{\i1}Ölümcül darbemi mi engelledi?
+Dialogue: 20,0:19:32.44,0:19:34.19,Default,,0,0,0,,{\i1}Büyü gücüm tükendi.
+Dialogue: 20,0:20:17.90,0:20:19.49,Default,,0,0,0,,Hassiktir! Hançerim...
+Dialogue: 20,0:20:30.09,0:20:31.95,Default,,0,0,0,,{\i1}Çok güçlü!
+Dialogue: 20,0:20:33.46,0:20:34.59,Default,,0,0,0,,{\i1}Şaka mı bu?
+Dialogue: 20,0:20:36.34,0:20:37.26,Default,,0,0,0,,{\i1}Kaçamayacağım...
+Dialogue: 20,0:20:43.81,0:20:44.80,Default,,0,0,0,,İşte bu!
+Dialogue: 20,0:20:44.80,0:20:46.81,Default,,0,0,0,,{\i1}Güce verdiğim tüm o puanların...
+Dialogue: 20,0:20:46.81,0:20:49.14,Default,,0,0,0,,{\i1}...ve Hükümdarın Kudretinin ekmeğini yeme vakti!
+Dialogue: 20,0:21:05.91,0:21:09.33,Default,,0,0,0,,İşin bitti!
+Dialogue: 20,0:21:22.94,0:21:24.23,Default,,0,0,0,,Efendi Jinu?
+Dialogue: 20,0:21:45.66,0:21:46.91,Default,,0,0,0,,Efendi Jinu!
+Dialogue: 20,0:21:47.25,0:21:50.41,Default,,0,0,0,,Esil... Evine dönüp babana...
+Dialogue: 20,0:21:51.21,0:21:54.92,Default,,0,0,0,,...artık buraların Radisuların\Nkontrolünde olduğunu söyle.
+Dialogue: 20,0:21:55.59,0:21:57.05,Default,,0,0,0,,Efendi Jinu...
+Dialogue: 20,0:22:00.65,0:22:04.03,Default,,0,0,0,,Radisu değil, Radiru...
+Comment: 0,0:00:00.00,0:00:00.02,e-ts,,0,0,0,,{yazı dizimi}
+Dialogue: 0,0:09:03.94,0:09:05.73,e-ts,,0,0,0,,{\pos(1522,831.6)\fscx250\fscy10\ybord12\c&H221C1A&\3c&HF62481&\1a&H37&\blur1\t(18,227,\fscy145)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 1,0:09:04.07,0:09:05.73,e-ts,,0,0,0,,{\pos(1521,676.39)\fscx75\fscy22\bord1\c&H10172B&\3c&HFF93C2&\1a&HFF&\3a&H3E&\blur1\fad(59,0)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 2,0:09:04.07,0:09:05.73,e-ts,,0,0,0,,{\pos(1522,677)\fnAvenirNext LT Pro Regular\fs45\b1\bord3\c&HFFEB6E&\3c&HFFEB6E&\alpha&H80&\blur6\fad(59,0)}BİLDİRİM
+Dialogue: 3,0:09:04.07,0:09:05.73,e-ts,,0,0,0,,{\pos(1522,677)\fnAvenirNext LT Pro Regular\fs45\b1\c&HFBF7F1&\blur0.7\fad(59,0)}BİLDİRİM
+Dialogue: 2,0:09:04.02,0:09:05.73,e-ts,,0,0,0,,{\pos(1522.31,764.51)\fnAvenirNext LT Pro Regular\fs40\bord3\c&HFFEB6E&\3c&HFFEB6E&\alpha&H80&\blur6}[İgris] sınıf atladı
+Dialogue: 3,0:09:04.02,0:09:05.73,e-ts,,0,0,0,,{\pos(1522.31,764.51)\fnAvenirNext LT Pro Regular\fs40\blur0.7}[İgris] sınıf atladı
+Dialogue: 1,0:09:03.98,0:09:05.73,e-ts,,0,0,0,,{\pos(1521,837.39)\fscx125\fscy20\bord1\c&H10172B&\3c&HFFFFFF&\1a&HFF&\3a&H7C&\blur1\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 2,0:09:03.98,0:09:05.73,e-ts,,0,0,0,,{\pos(1521,837)\fnAvenirNext LT Pro Regular\fs36\fsp-0.5\bord3\c&HFFEB6E&\3c&HFFEB6E&\alpha&H80&\blur6}[Şövalye Sınıfı]  Svy. MAKS
+Dialogue: 3,0:09:03.98,0:09:05.73,e-ts,,0,0,0,,{\pos(1521,837)\fnAvenirNext LT Pro Regular\fs36\fsp-0.5\blur0.7}[Şövalye Sınıfı]  Svy. MAKS
+Dialogue: 1,0:09:04.02,0:09:05.73,e-ts,,0,0,0,,{\an3\pos(1084.96,579.42)\bord6\c&HA18F46&\3c&HA18F46&\alpha&H80&\blur12\p1}m 460.5 319.5 l 459 322 482 334 505 322.5 503 319.5 482 330
+Dialogue: 2,0:09:04.02,0:09:05.73,e-ts,,0,0,0,,{\an3\pos(1084.96,579.42)\blur0.7\p1}m 460.5 319.5 l 459 322 482 334 505 322.5 503 319.5 482 330
+Dialogue: 1,0:09:04.02,0:09:05.73,e-ts,,0,0,0,,{\an3\pos(1084.96,589.42)\bord6\c&HA18F46&\3c&HA18F46&\alpha&H80&\blur12\p1}m 460.5 319.5 l 459 322 482 334 505 322.5 503 319.5 482 330
+Dialogue: 2,0:09:04.02,0:09:05.73,e-ts,,0,0,0,,{\an3\pos(1084.96,589.42)\blur0.7\p1}m 460.5 319.5 l 459 322 482 334 505 322.5 503 319.5 482 330
+Dialogue: 1,0:09:04.02,0:09:05.73,e-ts,,0,0,0,,{\an3\pos(1084.96,599.42)\bord6\c&HA18F46&\3c&HA18F46&\alpha&H80&\blur12\p1}m 460.5 319.5 l 459 322 482 334 505 322.5 503 319.5 482 330
+Dialogue: 2,0:09:04.02,0:09:05.73,e-ts,,0,0,0,,{\an3\pos(1084.96,599.42)\blur0.7\p1}m 460.5 319.5 l 459 322 482 334 505 322.5 503 319.5 482 330
+Dialogue: 2,0:09:04.07,0:09:05.73,e-ts,,0,0,0,,{\an7\pos(1522.6,976.6)\blur0.6\fad(100,0)\p1}m 220 31 l -220 31 -220 -31 220 -31 m -221 -30.04 l -221 29.96 221 29.96 221 -30.04
+Dialogue: 2,0:09:04.07,0:09:05.73,e-ts,,0,0,0,,{\pos(1522,976.55)\fnAvenir Next Cyr Medium\fs41\fsp-0.5\b1\bord3\c&H86C302&\3c&H67930B&\alpha&H60&\blur9\fad(100,0)}[Seçkin Şövalye Sınıfı] Svy.1
+Dialogue: 4,0:09:04.07,0:09:05.73,e-ts,,0,0,0,,{\pos(1522,976.55)\fnAvenir Next Cyr Medium\fs41\fsp-0.5\b1\c&HA2F402&\blur1.2\fad(100,0)}[Seçkin Şövalye Sınıfı] Svy.1
+Dialogue: 0,0:09:04.19,0:09:05.73,e-ts,,0,0,0,,{\pos(411,246.6)\fscx250\fscy10\ybord12\c&H221C1A&\3c&HF62481&\1a&H37&\blur1\t(18,227,\fscy145)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 1,0:09:04.32,0:09:05.73,e-ts,,0,0,0,,{\pos(410,91.39)\fscx75\fscy22\bord1\c&H10172B&\3c&HFF93C2&\1a&HFF&\3a&H30&\blur1\fad(59,0)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 2,0:09:04.32,0:09:05.73,e-ts,,0,0,0,,{\pos(411,92)\fnAvenirNext LT Pro Regular\fs45\b1\bord3\c&HFFEB6E&\3c&HFFEB6E&\alpha&H80&\blur6\fad(59,0)}BİLDİRİM
+Dialogue: 3,0:09:04.32,0:09:05.73,e-ts,,0,0,0,,{\pos(411,92)\fnAvenirNext LT Pro Regular\fs45\b1\c&HFBF7F1&\blur0.7\fad(59,0)}BİLDİRİM
+Dialogue: 2,0:09:04.27,0:09:05.73,e-ts,,0,0,0,,{\pos(411.31,179.51)\fnAvenirNext LT Pro Regular\fs40\bord3\c&HFFEB6E&\3c&HFFEB6E&\alpha&H80&\blur6}[Tank] sınıf atladı
+Dialogue: 3,0:09:04.27,0:09:05.73,e-ts,,0,0,0,,{\pos(411.31,179.51)\fnAvenirNext LT Pro Regular\fs40\blur0.7}[Tank] sınıf atladı
+Dialogue: 1,0:09:04.23,0:09:05.73,e-ts,,0,0,0,,{\pos(410,252.39)\fscx125\fscy20\bord1\c&H10172B&\3c&HFFFFFF&\1a&HFF&\3a&H7C&\blur1\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 2,0:09:04.23,0:09:05.73,e-ts,,0,0,0,,{\pos(410,252)\fnAvenirNext LT Pro Regular\fs36\fsp-0.5\bord3\c&HFFEB6E&\3c&HFFEB6E&\alpha&H80&\blur6}[Seçkin Sınıfı]  Svy. MAKS
+Dialogue: 3,0:09:04.23,0:09:05.73,e-ts,,0,0,0,,{\pos(410,252)\fnAvenirNext LT Pro Regular\fs36\fsp-0.5\blur0.7}[Seçkin Sınıfı]  Svy. MAKS
+Dialogue: 1,0:09:04.27,0:09:05.73,e-ts,,0,0,0,,{\an3\pos(-26.04,-5.58)\bord6\c&HA18F46&\3c&HA18F46&\alpha&H80&\blur12\p1}m 460.5 319.5 l 459 322 482 334 505 322.5 503 319.5 482 330
+Dialogue: 2,0:09:04.27,0:09:05.73,e-ts,,0,0,0,,{\an3\pos(-26.04,-5.58)\blur0.7\p1}m 460.5 319.5 l 459 322 482 334 505 322.5 503 319.5 482 330
+Dialogue: 1,0:09:04.27,0:09:05.73,e-ts,,0,0,0,,{\an3\pos(-26.04,4.42)\bord6\c&HA18F46&\3c&HA18F46&\alpha&H80&\blur12\p1}m 460.5 319.5 l 459 322 482 334 505 322.5 503 319.5 482 330
+Dialogue: 2,0:09:04.27,0:09:05.73,e-ts,,0,0,0,,{\an3\pos(-26.04,4.42)\blur0.7\p1}m 460.5 319.5 l 459 322 482 334 505 322.5 503 319.5 482 330
+Dialogue: 1,0:09:04.27,0:09:05.73,e-ts,,0,0,0,,{\an3\pos(-26.04,14.42)\bord6\c&HA18F46&\3c&HA18F46&\alpha&H80&\blur12\p1}m 460.5 319.5 l 459 322 482 334 505 322.5 503 319.5 482 330
+Dialogue: 2,0:09:04.27,0:09:05.73,e-ts,,0,0,0,,{\an3\pos(-26.04,14.42)\blur0.7\p1}m 460.5 319.5 l 459 322 482 334 505 322.5 503 319.5 482 330
+Dialogue: 1,0:09:04.32,0:09:05.73,e-ts,,0,0,0,,{\an7\pos(411.22,391.59)\blur0.6\fad(100,0)\p1}m 220 31 l -220 31 -220 -31 220 -31 m -221 -30.04 l -221 29.96 221 29.96 221 -30.04
+Dialogue: 2,0:09:04.32,0:09:05.73,e-ts,,0,0,0,,{\pos(411,391.55)\fnAvenir Next Cyr Medium\fs41\fsp-0.5\b1\bord3\c&H86C302&\3c&H67930B&\alpha&H60&\blur9\fad(100,0)}[Şövalye Sınıfı] Svy.1
+Dialogue: 4,0:09:04.32,0:09:05.73,e-ts,,0,0,0,,{\pos(411,391.55)\fnAvenir Next Cyr Medium\fs41\fsp-0.5\b1\c&HA2F402&\blur0.7\fad(100,0)}[Şövalye Sınıfı] Svy.1
+Dialogue: 0,0:08:50.18,0:08:53.39,e-ts,,0,0,0,,{\pos(1593,178.19)\fscx200\fscy10\ybord12\c&H2D161B&\3c&HFC1E9D&\1a&H37&\blur1\t(21,230,\fscy90)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 1,0:08:50.34,0:08:53.39,e-ts,,0,0,0,,{\pos(1593,102.8)\fscy20\bord1\c&H2D161B&\3c&HA5988C&\1a&HFF&\blur1\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 1,0:08:50.34,0:08:53.39,e-ts,,0,0,0,,{\pos(1593,102)\fscy85\fnAvenir Next Cyr Medium\fs45\b1\bord3\c&HD6AA5C&\3c&HD6AA5C&\alpha&H80&\blur6}BİLDİRİM
+Dialogue: 2,0:08:50.34,0:08:53.39,e-ts,,0,0,0,,{\pos(1593,102)\fscy85\fnAvenir Next Cyr Medium\fs45\b1\bord3\c&HD6AA5C&\3c&HD6AA5C&\alpha&H30&\blur6}BİLDİRİM
+Dialogue: 3,0:08:50.34,0:08:53.39,e-ts,,0,0,0,,{\pos(1593,102)\fscy85\fnAvenir Next Cyr Medium\fs45\b1\c&HFAF6FA&\blur0.6}BİLDİRİM
+Dialogue: 2,0:08:50.30,0:08:51.18,e-ts,,0,0,0,,{\pos(1593,238)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:50.30,0:08:51.18,e-ts,,0,0,0,,{\pos(1593,238)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:50.30,0:08:51.18,e-ts,,0,0,0,,{\pos(1593,238)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:51.18,0:08:51.22,e-ts,,0,0,0,,{\pos(1593,228)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:51.18,0:08:51.22,e-ts,,0,0,0,,{\pos(1593,228)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:51.18,0:08:51.22,e-ts,,0,0,0,,{\pos(1593,228)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:51.18,0:08:51.22,e-ts,,0,0,0,,{\pos(1593,268)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:51.18,0:08:51.22,e-ts,,0,0,0,,{\pos(1593,268)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:51.18,0:08:51.22,e-ts,,0,0,0,,{\pos(1593,268)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:51.22,0:08:51.26,e-ts,,0,0,0,,{\pos(1593,223)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:51.22,0:08:51.26,e-ts,,0,0,0,,{\pos(1593,223)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:51.22,0:08:51.26,e-ts,,0,0,0,,{\pos(1593,223)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:51.22,0:08:51.26,e-ts,,0,0,0,,{\pos(1593,263)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:51.22,0:08:51.26,e-ts,,0,0,0,,{\pos(1593,263)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:51.22,0:08:51.26,e-ts,,0,0,0,,{\pos(1593,263)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:51.26,0:08:51.30,e-ts,,0,0,0,,{\pos(1593,220)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:51.26,0:08:51.30,e-ts,,0,0,0,,{\pos(1593,220)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:51.26,0:08:51.30,e-ts,,0,0,0,,{\pos(1593,220)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:51.26,0:08:51.30,e-ts,,0,0,0,,{\pos(1593,260)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:51.26,0:08:51.30,e-ts,,0,0,0,,{\pos(1593,260)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:51.26,0:08:51.30,e-ts,,0,0,0,,{\pos(1593,260)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:51.30,0:08:51.34,e-ts,,0,0,0,,{\pos(1593,217)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:51.30,0:08:51.34,e-ts,,0,0,0,,{\pos(1593,217)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:51.30,0:08:51.34,e-ts,,0,0,0,,{\pos(1593,217)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:51.30,0:08:51.34,e-ts,,0,0,0,,{\pos(1593,257)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:51.30,0:08:51.34,e-ts,,0,0,0,,{\pos(1593,257)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:51.30,0:08:51.34,e-ts,,0,0,0,,{\pos(1593,257)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:51.34,0:08:52.14,e-ts,,0,0,0,,{\pos(1593,215)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:51.34,0:08:52.14,e-ts,,0,0,0,,{\pos(1593,215)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:51.34,0:08:52.14,e-ts,,0,0,0,,{\pos(1593,215)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:51.34,0:08:52.14,e-ts,,0,0,0,,{\pos(1593,255)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:51.34,0:08:52.14,e-ts,,0,0,0,,{\pos(1593,255)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:51.34,0:08:52.14,e-ts,,0,0,0,,{\pos(1593,255)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:52.14,0:08:52.18,e-ts,,0,0,0,,{\pos(1593,205)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:52.14,0:08:52.18,e-ts,,0,0,0,,{\pos(1593,205)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:52.14,0:08:52.18,e-ts,,0,0,0,,{\pos(1593,205)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:52.14,0:08:52.18,e-ts,,0,0,0,,{\pos(1593,245)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:52.14,0:08:52.18,e-ts,,0,0,0,,{\pos(1593,245)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:52.14,0:08:52.18,e-ts,,0,0,0,,{\pos(1593,245)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:52.14,0:08:52.18,e-ts,,0,0,0,,{\pos(1593,285)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[Asil İblis] öldürdünüz.
+Dialogue: 3,0:08:52.14,0:08:52.18,e-ts,,0,0,0,,{\pos(1593,285)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[Asil İblis] öldürdünüz.
+Dialogue: 4,0:08:52.14,0:08:52.18,e-ts,,0,0,0,,{\pos(1593,285)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[Asil İblis] öldürdünüz.
+Dialogue: 2,0:08:52.18,0:08:52.22,e-ts,,0,0,0,,{\pos(1593,200)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:52.18,0:08:52.22,e-ts,,0,0,0,,{\pos(1593,200)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:52.18,0:08:52.22,e-ts,,0,0,0,,{\pos(1593,200)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:52.18,0:08:52.22,e-ts,,0,0,0,,{\pos(1593,240)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:52.18,0:08:52.22,e-ts,,0,0,0,,{\pos(1593,240)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:52.18,0:08:52.22,e-ts,,0,0,0,,{\pos(1593,240)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:52.18,0:08:52.22,e-ts,,0,0,0,,{\pos(1593,280)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[Asil İblis] öldürdünüz.
+Dialogue: 3,0:08:52.18,0:08:52.22,e-ts,,0,0,0,,{\pos(1593,280)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[Asil İblis] öldürdünüz.
+Dialogue: 4,0:08:52.18,0:08:52.22,e-ts,,0,0,0,,{\pos(1593,280)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[Asil İblis] öldürdünüz.
+Dialogue: 2,0:08:52.22,0:08:52.26,e-ts,,0,0,0,,{\pos(1593,197)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:52.22,0:08:52.26,e-ts,,0,0,0,,{\pos(1593,197)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:52.22,0:08:52.26,e-ts,,0,0,0,,{\pos(1593,197)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:52.22,0:08:52.26,e-ts,,0,0,0,,{\pos(1593,237)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:52.22,0:08:52.26,e-ts,,0,0,0,,{\pos(1593,237)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:52.22,0:08:52.26,e-ts,,0,0,0,,{\pos(1593,237)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:52.22,0:08:52.26,e-ts,,0,0,0,,{\pos(1593,277)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[Asil İblis] öldürdünüz.
+Dialogue: 3,0:08:52.22,0:08:52.26,e-ts,,0,0,0,,{\pos(1593,277)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[Asil İblis] öldürdünüz.
+Dialogue: 4,0:08:52.22,0:08:52.26,e-ts,,0,0,0,,{\pos(1593,277)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[Asil İblis] öldürdünüz.
+Dialogue: 2,0:08:52.26,0:08:52.30,e-ts,,0,0,0,,{\pos(1593,194)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:52.26,0:08:52.30,e-ts,,0,0,0,,{\pos(1593,194)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:52.26,0:08:52.30,e-ts,,0,0,0,,{\pos(1593,194)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:52.26,0:08:52.30,e-ts,,0,0,0,,{\pos(1593,234)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:52.26,0:08:52.30,e-ts,,0,0,0,,{\pos(1593,234)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:52.26,0:08:52.30,e-ts,,0,0,0,,{\pos(1593,234)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:52.26,0:08:52.30,e-ts,,0,0,0,,{\pos(1593,274)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[Asil İblis] öldürdünüz.
+Dialogue: 3,0:08:52.26,0:08:52.30,e-ts,,0,0,0,,{\pos(1593,274)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[Asil İblis] öldürdünüz.
+Dialogue: 4,0:08:52.26,0:08:52.30,e-ts,,0,0,0,,{\pos(1593,274)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[Asil İblis] öldürdünüz.
+Dialogue: 2,0:08:52.30,0:08:53.39,e-ts,,0,0,0,,{\pos(1593,192)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:52.30,0:08:53.39,e-ts,,0,0,0,,{\pos(1593,192)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:52.30,0:08:53.39,e-ts,,0,0,0,,{\pos(1593,192)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:52.30,0:08:53.39,e-ts,,0,0,0,,{\pos(1593,232)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[İblis Şövalye] öldürdünüz.
+Dialogue: 3,0:08:52.30,0:08:53.39,e-ts,,0,0,0,,{\pos(1593,232)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[İblis Şövalye] öldürdünüz.
+Dialogue: 4,0:08:52.30,0:08:53.39,e-ts,,0,0,0,,{\pos(1593,232)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[İblis Şövalye] öldürdünüz.
+Dialogue: 2,0:08:52.30,0:08:53.39,e-ts,,0,0,0,,{\pos(1593,272)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD2B463&\3c&HF9B53A&\alpha&H80&\blur6}[Asil İblis] öldürdünüz.
+Dialogue: 3,0:08:52.30,0:08:53.39,e-ts,,0,0,0,,{\pos(1593,272)\fnAvenir Next Cyr Medium\fs40\b1\bord0.7\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur5}[Asil İblis] öldürdünüz.
+Dialogue: 4,0:08:52.30,0:08:53.39,e-ts,,0,0,0,,{\pos(1593,272)\fnAvenir Next Cyr Medium\fs40\b1\c&HECE7D8&\blur0.5}[Asil İblis] öldürdünüz.
+Dialogue: 0,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1595,263)\fscx200\fscy150\ybord12\c&H261A09&\3c&HEF1597&\1a&H32&\blur1.5\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 1,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1595,87.32)\fscx165\fscy50\bord1\c&H2F1C08&\3c&H94749D&\1a&HFF&\p1}m 0 0 l 300 0 300 100 0 100
+Dialogue: 2,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1595,87.32)\fscy85\fnAvenirNext LT Pro Regular\fs30\b1\bord5\c&HD6AA5C&\3c&HD6AA5C&\alpha&H80&\blur7}EŞYA: {\fs42}Giriş İzni
+Dialogue: 3,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1595,87.32)\fscy85\fnAvenirNext LT Pro Regular\fs30\b1\c&HFAF6FA&\blur0.4}EŞYA: {\fs42}Giriş İzni
+Dialogue: 1,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\an7\pos(1341.09,146.9)\fnAvenirNext LT Pro Regular\fs28\fsp-0.5\bord2\c&HD2B463&\3c&HD2B463&\alpha&H80&\blur6}DÜŞÜRME ZORLUĞU:\N{\b1}--
+Dialogue: 2,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\an7\pos(1341.09,146.9)\fnAvenirNext LT Pro Regular\fs28\fsp-0.5\bord0.1\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur3}DÜŞÜRME ZORLUĞU:\N{\b1\1a&H00&}--
+Dialogue: 3,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\an7\pos(1341.09,146.9)\fnAvenirNext LT Pro Regular\fs28\fsp-0.5\c&HECE7D8&\blur0.4}DÜŞÜRME ZORLUĞU:\N{\b1}--
+Dialogue: 1,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\an7\pos(1731.05,146.9)\fnAvenirNext LT Pro Regular\fs28\fsp-0.5\bord2\c&HD2B463&\3c&HD2B463&\alpha&H80&\blur6}KATEGORİ:\N{\b1}--
+Dialogue: 2,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\an7\pos(1731.05,146.9)\fnAvenirNext LT Pro Regular\fs28\fsp-0.5\bord0.1\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur3}KATEGORİ:\N{\b1\1a&H00&}--
+Dialogue: 3,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\an7\pos(1731.05,146.9)\fnAvenirNext LT Pro Regular\fs28\fsp-0.5\c&HECE7D8&\blur0.4}KATEGORİ:\N{\b1}--
+Dialogue: 2,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1594,252.16)\fscx125\fscy35\bord1\c&H2F1C08&\3c&HE2CAE8&\1a&HFF&\blur0.5\p1}m 0 0 l 300 0 300 100 0 100
+Dialogue: 2,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1595,252)\fnAvenir Next Cyr Medium\fs30\fsp-0.5\b1\bord2\c&HE8DAAD&\3c&HFFFFFF&\alpha&H40&\blur7}81. Kat
+Dialogue: 4,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1595,252)\fnAvenir Next Cyr Medium\fs30\fsp-0.5\b1\c&HECE7D8&\blur0.4}81. Kat
+Dialogue: 2,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1595,294)\fscx300\fscy115\fnAvenirNext LT Pro Regular\fs30\c&HFDE6D8&\3c&H94749D&\blur3}^
+Dialogue: 2,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1595,304)\fscx300\fscy115\fnAvenirNext LT Pro Regular\fs30\c&HFDE6D8&\3c&H94749D&\blur3}^
+Dialogue: 2,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1595,314)\fscx300\fscy115\fnAvenirNext LT Pro Regular\fs30\c&HFDE6D8&\3c&H94749D&\blur3}^
+Dialogue: 3,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1595,294)\fscx300\fscy115\fnAvenirNext LT Pro Regular\fs30\c&HFDE6D8&\3c&H94749D&\blur0.4}^
+Dialogue: 3,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1595,304)\fscx300\fscy115\fnAvenirNext LT Pro Regular\fs30\c&HFDE6D8&\3c&H94749D&\blur0.4}^
+Dialogue: 3,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1595,314)\fscx300\fscy115\fnAvenirNext LT Pro Regular\fs30\c&HFDE6D8&\3c&H94749D&\blur0.4}^
+Dialogue: 1,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1595,344.44)\fscx90\fscy35\bord1\c&H2F1C08&\3c&H94749D&\1a&HFF&\p1}m 0 0 l 300 0 300 100 0 100
+Dialogue: 1,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1595,344)\fnAvenirNext LT Pro Regular\fs28\fsp-0.5\bord2\c&HD2B463&\3c&HD2B463&\alpha&H80&\blur6}80. Kat
+Dialogue: 2,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1595,344)\fnAvenirNext LT Pro Regular\fs28\fsp-0.5\bord0.1\c&HECE7D8&\3c&HEDD894&\1a&HB4&\blur3}80. Kat
+Dialogue: 3,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\pos(1595,344)\fnAvenirNext LT Pro Regular\fs28\fsp-0.5\c&HECE7D8&\blur0.4}80. Kat
+Dialogue: 1,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\an7\pos(1333.62,405.91)\fnAvenirNext LT Pro Regular\fs24\fsp-0.5\bord1\c&HD2B463&\3c&HD2B463&\alpha&H80&\blur6}Bu izin size İblis Kalesi'nin 81. katına erişim izni sağlar. Yalnızca \N80. kattaki yer değiştirme büyüsü çemberinde kullanılabilir.
+Dialogue: 3,0:07:53.33,0:07:55.29,e-ts,,0,0,0,,{\an7\pos(1333.62,405.91)\fnAvenirNext LT Pro Regular\fs24\fsp-0.5\c&HECE7D8&\blur0.4}Bu izin size İblis Kalesi'nin 81. katına erişim izni sağlar. Yalnızca\N 80. kattaki yer değiştirme büyüsü çemberinde kullanılabilir.
+Dialogue: 0,0:11:01.39,0:11:02.35,e-ts,,0,0,0,,{\pos(1563.78,184.32)\fscx175\fscy80\ybord12\c&H221113&\3c&HBE114D&\1a&H37&\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 1,0:11:01.39,0:11:02.35,e-ts,,0,0,0,,{\pos(1563.78,117.63)\fscx115\fscy22\bord1\c&H221113&\3c&HBAA766&\alpha&H20&\1a&HFF&\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 2,0:11:01.39,0:11:02.35,e-ts,,0,0,0,,{\pos(1563.78,117.32)\fnAvenir Next Cyr Medium\fs45\b1\bord1\c&HD6AA5C&\3c&HD6AA5C&\alpha&H50&\blur3}BİLDİRİM
+Dialogue: 3,0:11:01.39,0:11:02.35,e-ts,,0,0,0,,{\pos(1563.78,117.32)\fnAvenir Next Cyr Medium\fs45\b1\bord3\c&HD6AA5C&\3c&HD6AA5C&\alpha&H20&\blur6}BİLDİRİM
+Dialogue: 4,0:11:01.39,0:11:02.35,e-ts,,0,0,0,,{\pos(1563.78,117.32)\fnAvenir Next Cyr Medium\fs45\b1\c&HFAF6FA&\blur0.4}BİLDİRİM
+Dialogue: 2,0:11:01.39,0:11:02.35,e-ts,,0,0,0,,{\pos(1563.78,228.32)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD6AA5C&\3c&HD6AA5C&\alpha&H50&\blur6}92. kata {\fnAvenirNext LT Pro Regular\bord2\alpha&H90&}ulaştınız.
+Dialogue: 3,0:11:01.39,0:11:02.35,e-ts,,0,0,0,,{\pos(1563.78,228.32)\fnAvenir Next Cyr Medium\fs40\b1\bord1\c&HD6AA5C&\3c&HD6AA5C&\alpha&H20&\blur3}92. kata {\fnAvenirNext LT Pro Regular\alpha&H30&}ulaştınız.
+Dialogue: 4,0:11:01.39,0:11:02.35,e-ts,,0,0,0,,{\pos(1563.78,228.32)\fnAvenir Next Cyr Medium\fs40\b1\c&HFAF6FA&\blur0.4}92. kata {\fnAvenirNext LT Pro Regular}ulaştınız.
+Dialogue: 0,0:11:03.56,0:11:04.77,e-ts,,0,0,0,,{\pos(1570.02,183.55)\fscx175\fscy80\ybord12\c&H221113&\3c&HBE114D&\1a&H37&\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 1,0:11:03.56,0:11:04.77,e-ts,,0,0,0,,{\pos(1570.02,116.86)\fscx115\fscy22\bord1\c&H221113&\3c&HBAA766&\alpha&H20&\1a&HFF&\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 2,0:11:03.56,0:11:04.77,e-ts,,0,0,0,,{\pos(1570.02,116.55)\fnAvenir Next Cyr Medium\fs45\b1\bord1\c&HD6AA5C&\3c&HD6AA5C&\alpha&H50&\blur3}BİLDİRİM
+Dialogue: 3,0:11:03.56,0:11:04.77,e-ts,,0,0,0,,{\pos(1570.02,116.55)\fnAvenir Next Cyr Medium\fs45\b1\bord3\c&HD6AA5C&\3c&HD6AA5C&\alpha&H20&\blur6}BİLDİRİM
+Dialogue: 4,0:11:03.56,0:11:04.77,e-ts,,0,0,0,,{\pos(1570.02,116.55)\fnAvenir Next Cyr Medium\fs45\b1\c&HFAF6FA&\blur0.4}BİLDİRİM
+Dialogue: 2,0:11:03.56,0:11:04.77,e-ts,,0,0,0,,{\pos(1570.02,227.55)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD6AA5C&\3c&HD6AA5C&\alpha&H50&\blur6}95. kata {\fnAvenirNext LT Pro Regular\bord2\alpha&H90&}ulaştınız.
+Dialogue: 3,0:11:03.56,0:11:04.77,e-ts,,0,0,0,,{\pos(1570.02,227.55)\fnAvenir Next Cyr Medium\fs40\b1\bord1\c&HD6AA5C&\3c&HD6AA5C&\alpha&H20&\blur3}95. kata {\fnAvenirNext LT Pro Regular\alpha&H30&}ulaştınız.
+Dialogue: 4,0:11:03.56,0:11:04.77,e-ts,,0,0,0,,{\pos(1570.02,227.55)\fnAvenir Next Cyr Medium\fs40\b1\c&HFAF6FA&\blur0.4}95. kata {\fnAvenirNext LT Pro Regular}ulaştınız.
+Dialogue: 0,0:11:06.23,0:11:07.44,e-ts,,0,0,0,,{\pos(1573.13,183.55)\fscx175\fscy80\ybord12\c&H221113&\3c&HBE114D&\1a&H37&\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 1,0:11:06.23,0:11:07.44,e-ts,,0,0,0,,{\pos(1573.13,116.86)\fscx115\fscy22\bord1\c&H221113&\3c&HBAA766&\alpha&H20&\1a&HFF&\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 2,0:11:06.23,0:11:07.44,e-ts,,0,0,0,,{\pos(1573.13,116.55)\fnAvenir Next Cyr Medium\fs45\b1\bord1\c&HD6AA5C&\3c&HD6AA5C&\alpha&H50&\blur3}BİLDİRİM
+Dialogue: 3,0:11:06.23,0:11:07.44,e-ts,,0,0,0,,{\pos(1573.13,116.55)\fnAvenir Next Cyr Medium\fs45\b1\bord3\c&HD6AA5C&\3c&HD6AA5C&\alpha&H20&\blur6}BİLDİRİM
+Dialogue: 4,0:11:06.23,0:11:07.44,e-ts,,0,0,0,,{\pos(1573.13,116.55)\fnAvenir Next Cyr Medium\fs45\b1\c&HFAF6FA&\blur0.4}BİLDİRİM
+Dialogue: 2,0:11:06.23,0:11:07.44,e-ts,,0,0,0,,{\pos(1573.13,227.55)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD6AA5C&\3c&HD6AA5C&\alpha&H50&\blur6}97. kata {\fnAvenirNext LT Pro Regular\bord2\alpha&H90&}ulaştınız.
+Dialogue: 3,0:11:06.23,0:11:07.44,e-ts,,0,0,0,,{\pos(1573.13,227.55)\fnAvenir Next Cyr Medium\fs40\b1\bord1\c&HD6AA5C&\3c&HD6AA5C&\alpha&H20&\blur3}97. kata {\fnAvenirNext LT Pro Regular\alpha&H30&}ulaştınız.
+Dialogue: 4,0:11:06.23,0:11:07.44,e-ts,,0,0,0,,{\pos(1573.13,227.55)\fnAvenir Next Cyr Medium\fs40\b1\c&HFAF6FA&\blur0.4}97. kata {\fnAvenirNext LT Pro Regular}ulaştınız.
+Dialogue: 0,0:12:11.75,0:12:13.71,e-ts,,0,0,0,,{\pos(1555.98,186.66)\fscx175\fscy8\ybord12\c&H221113&\3c&HBE114D&\1a&H37&\fad(100,0)\t(23,232,\fscy80)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 1,0:12:11.92,0:12:13.71,e-ts,,0,0,0,,{\pos(1555.98,119.97)\fscx115\fscy22\bord1\c&H221113&\3c&HBAA766&\alpha&H20&\1a&HFF&\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 2,0:12:11.92,0:12:13.71,e-ts,,0,0,0,,{\pos(1555.98,119.66)\fnAvenir Next Cyr Medium\fs45\b1\bord1\c&HD6AA5C&\3c&HD6AA5C&\alpha&H50&\blur3}BİLDİRİM
+Dialogue: 3,0:12:11.92,0:12:13.71,e-ts,,0,0,0,,{\pos(1555.98,119.66)\fnAvenir Next Cyr Medium\fs45\b1\bord3\c&HD6AA5C&\3c&HD6AA5C&\alpha&H20&\blur6}BİLDİRİM
+Dialogue: 4,0:12:11.92,0:12:13.71,e-ts,,0,0,0,,{\pos(1555.98,119.66)\fnAvenir Next Cyr Medium\fs45\b1\c&HFAF6FA&\blur0.4}BİLDİRİM
+Dialogue: 2,0:12:11.88,0:12:13.71,e-ts,,0,0,0,,{\pos(1555.98,230.66)\fnAvenir Next Cyr Medium\fs40\b1\bord3\c&HD6AA5C&\3c&HD6AA5C&\alpha&H50&\blur6}100. kata {\fnAvenirNext LT Pro Regular\bord2\alpha&H90&}ulaştınız.
+Dialogue: 3,0:12:11.88,0:12:13.71,e-ts,,0,0,0,,{\pos(1555.98,230.66)\fnAvenir Next Cyr Medium\fs40\b1\bord1\c&HD6AA5C&\3c&HD6AA5C&\alpha&H20&\blur3}100. kata {\fnAvenirNext LT Pro Regular\alpha&H30&}ulaştınız.
+Dialogue: 4,0:12:11.88,0:12:13.71,e-ts,,0,0,0,,{\pos(1555.98,230.66)\fnAvenir Next Cyr Medium\fs40\b1\c&HFAF6FA&\blur0.4}100. kata {\fnAvenirNext LT Pro Regular}ulaştınız.
+Dialogue: 0,0:12:41.66,0:12:43.62,e-ts,,0,0,0,,{\pos(871,935)\fnSolo Sans\fs28\b1\bord3\c&H3405BA&\3c&H1706C3&\alpha&H90&\blur6\fad(269,0)}İblis Hükümdar
+Dialogue: 1,0:12:41.66,0:12:41.70,e-ts,,0,0,0,,{\pos(871,935)\fnSolo Sans\fs28\b1\c&H5905C3&\blur0.8}İ{\c&H5805C2&}b{\c&H5705C2&}l{\c&H5605C2&}i{\c&H5505C2&}s {\c&H5305C1&}H{\c&H5206C1&}ü{\c&H5106C1&}k{\c&H5006C1&}ü{\c&H4F06C0&}m{\c&H4E06C0&}d{\c&H4D06C0&}a{\c&H4C06C0&}r{\c&H4C07C0&}
+Dialogue: 1,0:12:41.70,0:12:41.74,e-ts,,0,0,0,,{\pos(871,935)\fnSolo Sans\fs28\b1\c&H5403D0&\blur0.8}İ{\c&H5203CC&}b{\c&H5104C9&}l{\c&H4F04C6&}i{\c&H4E05C3&}s {\c&H4B06BD&}H{\c&H4A07BA&}ü{\c&H4908B7&}k{\c&H5A07C2&}ü{\c&H6B06CD&}m{\c&H9E06C9&}d{\c&HA006C8&}a{\c&HA207C8&}r{\c&HA408C8&}
+Dialogue: 1,0:12:41.74,0:12:41.78,e-ts,,0,0,0,,{\pos(871,935)\fnSolo Sans\fs28\b1\c&H61129F&\blur0.8}İ{\c&H8205BE&}b{\c&H8005BD&}l{\c&H7E05BC&}i{\c&H7C05BB&}s {\c&H7805B9&}H{\c&H9F04CF&}ü{\c&HC703E5&}k{\c&HC604E3&}ü{\c&HC505E1&}m{\c&HC406DF&}d{\c&HC307DD&}a{\c&HC208DB&}r{\c&HC209DA&}
+Dialogue: 1,0:12:41.78,0:12:41.91,e-ts,,0,0,0,,{\pos(871,935)\fnSolo Sans\fs28\b1\c&HD605DF&\blur0.8}İ{\c&HD704DF&}b{\c&HD804E0&}l{\c&HD904E0&}i{\c&HDA04E1&}s {\c&HDD03E2&}H{\c&HDE03E2&}ü{\c&HDF03E3&}k{\c&HE003E3&}ü{\c&HE202E4&}m{\c&HE302E4&}d{\c&HE402E5&}a{\c&HE502E5&}r{\c&HE702E6&}
+Dialogue: 1,0:12:41.91,0:12:41.95,e-ts,,0,0,0,,{\pos(871,935)\fnSolo Sans\fs28\b1\c&H7E04DB&\blur0.8}İ{\c&H7A03DA&}b{\c&H7703DA&}l{\c&H7403DA&}i{\c&H7003D9&}s {\c&H6A03D9&}H{\c&H6603D8&}ü{\c&H6303D8&}k{\c&H6003D8&}ü{\c&H5D03D8&}m{\c&H5D04D4&}d{\c&H5D05D0&}a{\c&H5D06CC&}r{\c&H5D07C9&}
+Dialogue: 1,0:12:41.95,0:12:43.62,e-ts,,0,0,0,,{\pos(871,935)\fnSolo Sans\fs28\b1\c&H3A06D5&\blur0.8}İ{\c&H3A05D6&}b{\c&H3B05D7&}l{\c&H3B05D9&}i{\c&H3C04DA&}s {\c&H3D04DD&}H{\c&H3D03DE&}ü{\c&H3E03E0&}k{\c&H3E03E1&}ü{\c&H3F03E3&}m{\c&H3F03DD&}d{\c&H4004D8&}a{\c&H4105D3&}r{\c&H4206CE&}
+Dialogue: 2,0:12:57.55,0:12:57.59,e-ts,,0,0,0,,{\pos(1264,369.57)\fnSolo Sans\fs27\b1\c&H4ED9F3&\blur0.8\clip(m 1219.29 359 l 1214.07 368.26 1214.78 384.65 1317.12 384.65 1328.76 384.65 1328.04 370.16 1306.44 367.55 1306.67 359 1217.16 355.68)}Ejder Kaisellin
+Dialogue: 2,0:12:57.59,0:12:57.63,e-ts,,0,0,0,,{\pos(1264,369.57)\fnSolo Sans\fs27\b1\c&H5CDFFA&\blur0.9}Ejder Kaisellin
+Dialogue: 1,0:12:57.63,0:12:57.76,e-ts,,0,0,0,,{\pos(1264,369.57)\fnSolo Sans\fs27\b1\bord3\c&H3B535B&\3c&H4CD3FF&\alpha&H80&\blur8}Ejder Kaisellin
+Dialogue: 2,0:12:57.63,0:12:57.76,e-ts,,0,0,0,,{\pos(1264,369.57)\fnSolo Sans\fs27\b1\c&H73E1FC&\blur0.8}E{\c&H70E1FC&}j{\c&H6DE1FC&}d{\c&H6BE1FC&}e{\c&H68E1FC&}r{\c&H66E1FD&} {\c&H60E1FC&}K{\c&H5AE2FB&}a{\c&H55E2FA&}i{\c&H4FE3F9&}s{\c&H4AE4F9&}e{\c&H44E4F8&}l{\c&H3EE5F7&}l{\c&H39E5F6&}i{\c&H33E6F5&}n{\c&H2EE7F5&}
+Dialogue: 1,0:12:57.76,0:12:57.80,e-ts,,0,0,0,,{\pos(1264,369.57)\fnSolo Sans\fs27\b1\bord3\c&H096481&\3c&H06A5D9&\alpha&H80&\blur8}Ejder Kaisellin
+Dialogue: 2,0:12:57.76,0:12:57.80,e-ts,,0,0,0,,{\pos(1264,369.57)\fnSolo Sans\fs27\b1\c&H27C6CE&\blur0.6}E{\c&H25C6CF&}j{\c&H24C6D0&}d{\c&H23C7D1&}e{\c&H21C7D2&}r {\c&H1FC8D5&}K{\c&H1DC8D6&}a{\c&H1CC8D7&}i{\c&H1BC9D8&}s{\c&H19C9DA&}e{\c&H18C9DB&}l{\c&H17CADC&}l{\c&H15CADD&}i{\c&H14CADE&}n{\c&H13CBE0&}
+Dialogue: 1,0:12:57.80,0:12:58.47,e-ts,,0,0,0,,{\pos(1264,369.57)\fnSolo Sans\fs27\b1\bord3\c&H0000FF&\3c&H0000FF&\alpha&H80&\blur8}Ejder Kaisellin
+Dialogue: 2,0:12:57.80,0:12:58.47,e-ts,,0,0,0,,{\pos(1264,369.57)\fnSolo Sans\fs27\b1\c&H0593E7&\blur0.8}Ejder Kaisellin
+Dialogue: 0,0:13:38.80,0:13:39.42,e-ts,,0,0,0,,{\pos(1605.96,142.4)\fscx200\fscy70\ybord12\c&H432736&\3c&HFA2193&\1a&H37&\t(42,42,\c&H49273A&)\t(84,84,\c&H4D2C3D&)\t(125,125,\c&H4B273A&)\t(167,167,\c&H2C061B&)\t(209,209,\c&H2F061E&)\t(250,250,\c&H2B061B&)\t(292,292,\c&H2E061E&)\t(334,334,\c&H2C051B&)\t(375,375,\c&H2F061E&)\t(417,417,\c&H2C071C&)\t(459,459,\c&H2F061E&)\t(501,501,\c&H310C20&)\t(542,542,\c&H3F1D2E&)\t(584,584,\c&H321323&)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 0,0:13:39.42,0:13:39.59,e-ts,,0,0,0,,{\pos(1605.96,142.4)\fscx200\fscy70\ybord12\c&H350724&\3c&HFA2193&\1a&H37&\fad(0,146)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 1,0:13:38.80,0:13:39.59,e-ts,,0,0,0,,{\pos(1605.96,142.4)\fscx160\fscy50\bord1\c&H452735&\3c&HA8838F&\1a&HFF&\fad(0,146)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 2,0:13:38.80,0:13:39.59,e-ts,,0,0,0,,{\pos(1605.96,161.6)\fscx140\fscy20\bord1\c&HBE8CB3&\3c&HA8838F&\1a&H37&\fad(0,146)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 3,0:13:38.80,0:13:39.59,e-ts,,0,0,0,,{\an1\pos(1393.15,122.42)\fnAvenirNext LT Pro Regular\fs35\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H90&\blur9\fad(0,146)}[Etkin Yetenek]
+Dialogue: 3,0:13:38.80,0:13:39.59,e-ts,,0,0,0,,{\an1\pos(1393.15,122.42)\fnAvenirNext LT Pro Regular\fs35\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H90&\blur6\fad(0,146)}[Etkin Yetenek]
+Dialogue: 4,0:13:38.80,0:13:39.59,e-ts,,0,0,0,,{\an1\pos(1393.15,122.42)\fnAvenirNext LT Pro Regular\fs35\blur0.8\fad(0,146)}[Etkin Yetenek]
+Dialogue: 3,0:13:38.80,0:13:39.59,e-ts,,0,0,0,,{\an4\pos(1421.05,161.2)\fnAvenir Next Cyr Medium\fs32\b1\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H80&\blur9\fad(0,146)}Hükümdar Toprağı           Svy.--
+Dialogue: 3,0:13:38.80,0:13:39.59,e-ts,,0,0,0,,{\an4\pos(1421.05,161.2)\fnAvenir Next Cyr Medium\fs32\b1\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H80&\blur6\fad(0,146)}Hükümdar Toprağı           Svy.--
+Dialogue: 4,0:13:38.80,0:13:39.59,e-ts,,0,0,0,,{\an4\pos(1421.05,161.2)\fnAvenir Next Cyr Medium\fs32\b1\c&HFBF8F4&\blur1.5\fad(0,146)}Hükümdar Toprağı
+Dialogue: 3,0:13:38.80,0:13:39.59,e-ts,,0,0,0,,{\an4\pos(1720.62,160.6)\fnAvenir Next Cyr Medium\fs32\b1\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H80&\blur9\fad(0,146)}Svy.--
+Dialogue: 3,0:13:38.80,0:13:39.59,e-ts,,0,0,0,,{\an4\pos(1720.62,160.6)\fnAvenir Next Cyr Medium\fs32\b1\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H80&\blur6\fad(0,146)}Svy.--
+Dialogue: 4,0:13:38.80,0:13:39.59,e-ts,,0,0,0,,{\an4\pos(1720.62,160.6)\fnAvenir Next Cyr Medium\fs32\b1\c&HFBF8F4&\blur1.5\fad(0,146)}Svy.--
+Dialogue: 0,0:15:02.38,0:15:04.34,e-ts,,0,0,0,,{\pos(315.96,142.4)\fscx200\fscy8\ybord12\c&H350724&\3c&HFA2193&\1a&H37&\fad(0,144)\t(22,231,\fscy70)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 1,0:15:02.42,0:15:04.34,e-ts,,0,0,0,,{\pos(315.96,142.4)\fscx160\fscy50\bord1\c&H452735&\3c&HA8838F&\1a&HFF&\fad(191,144)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 2,0:15:02.42,0:15:04.34,e-ts,,0,0,0,,{\pos(315.96,161.6)\fscx140\fscy20\bord1\c&HBE8CB3&\3c&HA8838F&\1a&H37&\fad(149,144)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 3,0:15:02.42,0:15:04.34,e-ts,,0,0,0,,{\an1\pos(103.15,122.42)\fnAvenirNext LT Pro Regular\fs35\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H90&\blur9\fad(149,144)}[Etkin Yetenek]
+Dialogue: 3,0:15:02.42,0:15:04.34,e-ts,,0,0,0,,{\an1\pos(103.15,122.42)\fnAvenirNext LT Pro Regular\fs35\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H90&\blur6\fad(149,144)}[Etkin Yetenek]
+Dialogue: 4,0:15:02.42,0:15:04.34,e-ts,,0,0,0,,{\an1\pos(103.15,122.42)\fnAvenirNext LT Pro Regular\fs35\blur0.8\fad(149,144)}[Etkin Yetenek]
+Dialogue: 3,0:15:02.42,0:15:04.34,e-ts,,0,0,0,,{\an4\pos(131.05,161.2)\fnAvenir Next Cyr Medium\fs32\b1\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H80&\blur9\fad(149,144)}Gizlilik
+Dialogue: 3,0:15:02.42,0:15:04.34,e-ts,,0,0,0,,{\an4\pos(131.05,161.2)\fnAvenir Next Cyr Medium\fs32\b1\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H80&\blur6\fad(149,144)}Gizlilik
+Dialogue: 4,0:15:02.42,0:15:04.34,e-ts,,0,0,0,,{\an4\pos(131.05,161.2)\fnAvenir Next Cyr Medium\fs32\b1\c&HFBF8F4&\blur1\fad(149,144)}Gizlilik
+Dialogue: 3,0:15:02.42,0:15:04.34,e-ts,,0,0,0,,{\an4\pos(430.62,160.6)\fnAvenir Next Cyr Medium\fs32\b1\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H80&\blur9\fad(149,144)}Svy. 1
+Dialogue: 3,0:15:02.42,0:15:04.34,e-ts,,0,0,0,,{\an4\pos(430.62,160.6)\fnAvenir Next Cyr Medium\fs32\b1\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H80&\blur6\fad(149,144)}Svy. 1
+Dialogue: 4,0:15:02.42,0:15:04.34,e-ts,,0,0,0,,{\an4\pos(430.62,160.6)\fnAvenir Next Cyr Medium\fs32\b1\c&HFBF8F4&\blur1\fad(149,144)}Svy. 1
+Dialogue: 0,0:15:04.26,0:15:05.84,e-ts,,0,0,0,,{\pos(315.96,142.4)\fscx200\fscy8\ybord12\c&H350724&\3c&HFA2193&\1a&H37&\t(22,231,\fscy70)\fad(,144)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 1,0:15:04.30,0:15:05.84,e-ts,,0,0,0,,{\pos(315.96,142.4)\fscx160\fscy50\bord1\c&H452735&\3c&HA8838F&\1a&HFF&\fad(191,144)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 2,0:15:04.30,0:15:05.84,e-ts,,0,0,0,,{\pos(315.96,161.6)\fscx140\fscy20\bord1\c&HBE8CB3&\3c&HA8838F&\1a&H37&\fad(149,144)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 3,0:15:04.30,0:15:05.84,e-ts,,0,0,0,,{\an1\pos(103.15,122.42)\fnAvenirNext LT Pro Regular\fs35\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H90&\blur9\fad(149,144)}[Etkin Yetenek]
+Dialogue: 3,0:15:04.30,0:15:05.84,e-ts,,0,0,0,,{\an1\pos(103.15,122.42)\fnAvenirNext LT Pro Regular\fs35\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H90&\blur6\fad(149,144)}[Etkin Yetenek]
+Dialogue: 4,0:15:04.30,0:15:05.84,e-ts,,0,0,0,,{\an1\pos(103.15,122.42)\fnAvenirNext LT Pro Regular\fs35\blur0.8\fad(149,144)}[Etkin Yetenek]
+Dialogue: 3,0:15:04.30,0:15:05.84,e-ts,,0,0,0,,{\an4\pos(131.05,161.2)\fnAvenir Next Cyr Medium\fs32\b1\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H80&\blur9\fad(149,144)}Depar
+Dialogue: 3,0:15:04.30,0:15:05.84,e-ts,,0,0,0,,{\an4\pos(131.05,161.2)\fnAvenir Next Cyr Medium\fs32\b1\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H80&\blur6\fad(149,144)}Depar
+Dialogue: 4,0:15:04.30,0:15:05.84,e-ts,,0,0,0,,{\an4\pos(131.05,161.2)\fnAvenir Next Cyr Medium\fs32\b1\c&HFBF8F4&\blur1\fad(149,144)}Depar
+Dialogue: 3,0:15:04.30,0:15:05.84,e-ts,,0,0,0,,{\an4\pos(430.62,160.6)\fnAvenir Next Cyr Medium\fs32\b1\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H80&\blur9\fad(149,144)}Svy. 2
+Dialogue: 3,0:15:04.30,0:15:05.84,e-ts,,0,0,0,,{\an4\pos(430.62,160.6)\fnAvenir Next Cyr Medium\fs32\b1\bord3\c&HEBCCA1&\3c&HEBCCA1&\alpha&H80&\blur6\fad(149,144)}Svy. 2
+Dialogue: 4,0:15:04.30,0:15:05.84,e-ts,,0,0,0,,{\an4\pos(430.62,160.6)\fnAvenir Next Cyr Medium\fs32\b1\c&HFBF8F4&\blur1\fad(149,144)}Svy. 2
+Dialogue: 0,0:02:33.80,0:02:34.93,e-ts,,0,0,0,,{\pos(1466,745)\fscx175\fscy60\ybord12\c&H2E161A&\3c&HCF2161&\1a&H37&\blur1\fad(1500,0)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 2,0:02:33.80,0:02:34.93,e-ts,,0,0,0,,{\pos(1466,745)\fnAvenirNext LT Pro Regular\fs35\b1\bord3\c&HBDB1B0&\3c&HBDB1B0&\alpha&H80&\blur9\fad(1500,0)}Sivridiş tarafından kullanılan\N[Yetenek: Koruma Ezgisi].
+Dialogue: 3,0:02:33.80,0:02:34.93,e-ts,,0,0,0,,{\pos(1466,745)\fnAvenirNext LT Pro Regular\fs35\b1\c&HE2D6DB&\blur0.6\fad(1500,0)}Sivridiş tarafından kullanılan\N[Yetenek: Koruma Ezgisi].
+Dialogue: 0,0:02:34.93,0:02:36.39,e-ts,,0,0,0,,{\pos(1466,745)\fscx175\fscy60\ybord12\c&H2E161A&\3c&HCF2161&\1a&H37&\blur1\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 2,0:02:34.93,0:02:36.39,e-ts,,0,0,0,,{\pos(1466,745)\fnAvenirNext LT Pro Regular\fs35\b1\bord3\c&HBDB1B0&\3c&HBDB1B0&\alpha&H80&\blur9}Sivridiş tarafından kullanılan\N[Yetenek: Koruma Ezgisi].
+Dialogue: 3,0:02:34.93,0:02:36.39,e-ts,,0,0,0,,{\pos(1466,745)\fnAvenirNext LT Pro Regular\fs35\b1\c&HE2D6DB&\blur0.6}Sivridiş tarafından kullanılan\N[Yetenek: Koruma Ezgisi].
+Dialogue: 0,0:21:29.94,0:21:31.27,e-ts,,0,0,0,,{\pos(1626.11,193.68)\fscx175\fscy10\ybord12\c&H2E161A&\3c&HE51583&\1a&HB4&\blur1\fad(0,146)\t(17,225,\fscy100)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 1,0:21:30.06,0:21:31.27,e-ts,,0,0,0,,{\pos(1626.11,100.86)\fscy20\bord1\c&H2E161A&\3c&HFAD9D0&\1a&HFF&\3a&H32&\blur1\fad(145,146)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 3,0:21:30.06,0:21:31.27,e-ts,,0,0,0,,{\pos(1626,100)\fnAvenir Next Cyr Medium\fs45\b1\bord3\c&HD6AA5C&\3c&HD6AA5C&\alpha&H80&\blur6\fad(145,146)}BİLDİRİM
+Dialogue: 4,0:21:30.06,0:21:31.27,e-ts,,0,0,0,,{\pos(1626,100)\fnAvenir Next Cyr Medium\fs45\b1\c&HFAF6FA&\blur0.4\fad(145,146)}BİLDİRİM
+Dialogue: 2,0:21:30.02,0:21:31.27,e-ts,,0,0,0,,{\an7\pos(1458.1,206.86)\fnAvenirNext LT Pro Regular\fs38\bord1\c&HD6AA5C&\3c&HD6AA5C&\alpha&H80&\blur9\fad(145,146)}Öldürdünüz:\N\N{\fnAvenir Next Cyr Medium\b1\bord6\blur20}[İblis Hükümdar Baran].
+Dialogue: 3,0:21:30.02,0:21:31.27,e-ts,,0,0,0,,{\an7\pos(1458.1,206.86)\fnAvenirNext LT Pro Regular\fs38\bord2\c&HD6AA5C&\3c&HD6AA5C&\alpha&H80&\blur9\fad(145,146)}Öldürdünüz:\N\N{\fnAvenir Next Cyr Medium\b1\bord3}[İblis Hükümdar Baran].
+Dialogue: 4,0:21:30.02,0:21:31.27,e-ts,,0,0,0,,{\an7\pos(1458.1,206.86)\fnAvenirNext LT Pro Regular\fs38\c&HF6EFF2&\blur0.9\fad(145,146)}Öldürdünüz:\N\N{\fnAvenir Next Cyr Medium\b1}[İblis Hükümdar Baran].
+Dialogue: 0,0:21:31.19,0:21:32.65,e-ts,,0,0,0,,{\pos(1626.11,193.68)\fscx175\fscy10\ybord12\c&H2E161A&\3c&HE51583&\1a&HB4&\blur1\fad(0,146)\t(17,225,\fscy100)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 1,0:21:31.31,0:21:32.65,e-ts,,0,0,0,,{\pos(1626.11,100.86)\fscy20\bord1\c&H2E161A&\3c&HFAD9D0&\1a&HFF&\3a&H32&\blur1\fad(145,146)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 3,0:21:31.31,0:21:32.65,e-ts,,0,0,0,,{\pos(1626,100)\fnAvenir Next Cyr Medium\fs45\b1\bord3\c&HD6AA5C&\3c&HD6AA5C&\alpha&H80&\blur6\fad(145,146)}BİLDİRİM
+Dialogue: 4,0:21:31.31,0:21:32.65,e-ts,,0,0,0,,{\pos(1626,100)\fnAvenir Next Cyr Medium\fs45\b1\c&HFAF6FA&\blur0.4\fad(145,146)}BİLDİRİM
+Dialogue: 2,0:21:31.27,0:21:32.65,e-ts,,0,0,0,,{\an7\pos(1463.64,233.88)\fnAvenirNext LT Pro Regular\fs38\bord1\c&HD6AA5C&\3c&HD6AA5C&\alpha&H80&\blur9\fad(145,146)}Baran'ın tayfını aldınız.
+Dialogue: 3,0:21:31.27,0:21:32.65,e-ts,,0,0,0,,{\an7\pos(1463.64,233.88)\fnAvenirNext LT Pro Regular\fs38\bord2\c&HD6AA5C&\3c&HD6AA5C&\alpha&H80&\blur9\fad(145,146)}Baran'ın tayfını aldınız.
+Dialogue: 4,0:21:31.27,0:21:32.65,e-ts,,0,0,0,,{\an7\pos(1463.64,233.88)\fnAvenirNext LT Pro Regular\fs38\c&HF6EFF2&\blur0.9\fad(145,146)}Baran'ın tayfını aldınız.
+Dialogue: 0,0:21:32.56,0:21:34.65,e-ts,,0,0,0,,{\pos(1626.11,193.68)\fscx175\fscy10\ybord12\c&H2E161A&\3c&HE51583&\1a&HB4&\blur1\fad(0,146)\t(17,225,\fscy100)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 1,0:21:32.69,0:21:34.65,e-ts,,0,0,0,,{\pos(1626.11,100.86)\fscy20\bord1\c&H2E161A&\3c&HFAD9D0&\1a&HFF&\3a&H32&\blur1\fad(145,146)\p1}m 0 0 l 300 0 300 300 0 300
+Dialogue: 3,0:21:32.69,0:21:34.65,e-ts,,0,0,0,,{\pos(1626,100)\fnAvenir Next Cyr Medium\fs45\b1\bord3\c&HD6AA5C&\3c&HD6AA5C&\alpha&H80&\blur6\fad(145,146)}BİLDİRİM
+Dialogue: 4,0:21:32.69,0:21:34.65,e-ts,,0,0,0,,{\pos(1626,100)\fnAvenir Next Cyr Medium\fs45\b1\c&HFAF6FA&\blur0.4\fad(145,146)}BİLDİRİM
+Dialogue: 3,0:21:32.65,0:21:34.65,e-ts,,0,0,0,,{\an7\pos(1819.96,254.83)\fscx175\fscy175\bord2\c&HD2B463&\3c&HD2B463&\alpha&H80&\blur6\fad(145,146)\p1}m 0.07 -11.19 b 14.08 -10.61 14.66 10.49 0.51 11.18 -14.04 11.89 -14.82 -10.18 -0.36 -11.18 l 0 -11.19 m -0.07 -10.17 b -13.01 -9.63 -13.19 9.99 -0.14 10.17 13.09 10.35 13.2 -9.86 0 -10.17
+Dialogue: 3,0:21:32.65,0:21:34.65,e-ts,,0,0,0,,{\an7\pos(1819.96,254.83)\fscx175\fscy175\c&HECE7D8&\blur0.8\fad(145,146)\p1}m 0.07 -11.19 b 14.08 -10.61 14.66 10.49 0.51 11.18 -14.04 11.89 -14.82 -10.18 -0.36 -11.18 l 0 -11.19 m -0.07 -10.17 b -13.01 -9.63 -13.19 9.99 -0.14 10.17 13.09 10.35 13.2 -9.86 0 -10.17
+Dialogue: 2,0:21:32.65,0:21:34.65,e-ts,,0,0,0,,{\an7\pos(1387.43,233.88)\fnAvenirNext LT Pro Regular\fs38\bord1\c&HD6AA5C&\3c&HD6AA5C&\alpha&H80&\blur9\fad(145,146)}[Görev: {\fax-0.1\fnAvenir Next Cyr Medium\b1\bord6\blur20}İblis Ruhlarını Topla!  {\fax0\fs35\b0}2  .]
+Dialogue: 3,0:21:32.65,0:21:34.65,e-ts,,0,0,0,,{\an7\pos(1387.43,233.88)\fnAvenirNext LT Pro Regular\fs38\bord2\c&HD6AA5C&\3c&HD6AA5C&\alpha&H80&\blur9\fad(145,146)}[Görev: {\fax-0.1\fnAvenir Next Cyr Medium\b1\bord3}İblis Ruhlarını Topla!  {\fax0\fs35\b0}2  .]
+Dialogue: 4,0:21:32.65,0:21:34.65,e-ts,,0,0,0,,{\an7\pos(1387.43,233.88)\fnAvenirNext LT Pro Regular\fs38\c&HF6EFF2&\blur0.9\fad(145,146)}[Görev: {\fax-0.1\fnAvenir Next Cyr Medium\b1}İblis Ruhlarını Topla!  {\fax0\fs35\b0}2  .]
+Dialogue: 0,0:22:41.09,0:22:43.76,e-ts,,0,0,0,,{\an7\pos(960,-57.02)\c&H4009BB&\blur1.2\p1}m -47.42 41.16 l -47.42 70.98 -70.44 70.98 -70.44 190.22 -109.2 190.22 -109.2 70.98 -132.13 70.98 -132.13 41.16 -47.42 41.16 m -38.58 41.16 l 26.06 41.16 26.06 70.98 0.19 70.98 0.19 99.25 24.41 99.25 24.41 127.61 0.19 127.61 0.19 160.39 28.64 160.39 28.64 190.22 -38.58 190.22 -38.58 41.16 m 132.12 41.16 l 109.94 108.45 134.25 190.22 94.19 190.22 78.55 126.33 78.55 190.22 39.78 190.22 39.78 41.16 78.55 41.16 78.55 99.06 95.77 41.16 132.12 41.16
+Dialogue: 0,0:22:41.09,0:22:43.76,e-ts,,0,0,0,,{\an7\pos(960,907.6)\c&H4009BB&\blur0.8\p1}m -406.26 39.38 l -433.29 130.34 -433.29 181.95 -467.63 181.95 -467.63 130.34 -493.71 39.38 -459.62 39.38 b -454.27 67.14 -451.29 85.84 -450.65 95.47 -448.59 80.27 -445.15 61.56 -440.34 39.38 l -406.26 39.38 m -315.63 39.38 l -315.63 134.66 b -315.63 145.47 -315.98 153.06 -316.68 157.42 -317.38 161.8 -319.48 166.3 -322.93 170.91 -326.4 175.52 -330.96 179 -336.63 181.38 -342.3 183.77 -348.98 184.95 -356.66 184.95 -365.18 184.95 -372.7 183.55 -379.21 180.72 -385.73 177.91 -390.6 174.23 -393.84 169.72 -397.05 165.19 -398.96 160.42 -399.55 155.41 -400.15 150.39 -400.43 139.83 -400.43 123.75 l -400.43 39.38 -363.37 39.38 -363.37 146.28 b -363.37 152.52 -363.02 156.48 -362.35 158.22 -361.66 159.95 -360.3 160.81 -358.26 160.81 -355.9 160.81 -354.4 159.86 -353.71 157.95 -353.04 156.05 -352.71 151.55 -352.71 144.44 l -352.71 39.38 -315.63 39.38 m -365.73 11.98 l -365.73 34.88 -388.71 34.88 -388.71 11.98 -365.73 11.98 m -327.24 11.98 l -327.24 34.88 -350.23 34.88 -350.23 11.98 -327.24 11.98 m -212.93 39.38 l -234.16 103.75 -210.91 181.95 -249.23 181.95 -264.2 120.84 -264.2 181.95 -301.27 181.95 -301.27 39.38 -264.2 39.38 -264.2 94.77 -247.73 39.38 -212.93 39.38 m -125.93 82.53 l -160.37 82.53 -160.37 71.95 b -160.37 67.03 -160.8 63.89 -161.68 62.53 -162.57 61.19 -164.04 60.52 -166.09 60.52 -168.32 60.52 -170.01 61.42 -171.15 63.23 -172.29 65.06 -172.87 67.83 -172.87 71.52 -172.87 76.28 -172.23 79.86 -170.93 82.27 -169.7 84.67 -166.21 87.58 -160.45 90.98 -143.96 100.78 -133.55 108.83 -129.27 115.11 -124.99 121.39 -122.85 131.52 -122.85 145.5 -122.85 155.66 -124.04 163.14 -126.41 167.95 -128.79 172.77 -133.38 176.8 -140.2 180.06 -147.01 183.31 -154.93 184.95 -163.98 184.95 -173.9 184.95 -182.37 183.06 -189.38 179.31 -196.4 175.56 -200.99 170.77 -203.16 164.95 -205.34 159.14 -206.43 150.89 -206.43 140.2 l -206.43 130.88 -171.99 130.88 -171.99 148.22 b -171.99 153.56 -171.51 157 -170.54 158.53 -169.57 160.06 -167.85 160.81 -165.38 160.81 -162.91 160.81 -161.09 159.84 -159.88 157.91 -158.68 155.97 -158.07 153.09 -158.07 149.28 -158.07 140.89 -159.23 135.39 -161.51 132.81 -163.85 130.23 -169.63 125.92 -178.85 119.88 -188.07 113.77 -194.18 109.33 -197.18 106.56 -200.16 103.81 -202.65 100 -204.62 95.13 -206.59 90.25 -207.57 84.03 -207.57 76.45 -207.57 65.53 -206.18 57.55 -203.38 52.5 -200.6 47.45 -196.09 43.5 -189.87 40.66 -183.65 37.81 -176.13 36.38 -167.32 36.38 -157.7 36.38 -149.49 37.94 -142.71 41.05 -135.93 44.16 -131.43 48.08 -129.23 52.81 -127.02 57.53 -125.93 65.56 -125.93 76.89 l -125.93 82.53 m -111.23 39.38 l -49.4 39.38 -49.4 67.91 -74.15 67.91 -74.15 94.94 -50.98 94.94 -50.98 122.06 -74.15 122.06 -74.15 153.42 -46.93 153.42 -46.93 181.95 -111.23 181.95 -111.23 39.38 m 0.79 39.38 l 0.79 153.42 23.34 153.42 23.34 181.95 -36.29 181.95 -36.29 39.38 0.79 39.38 m 32.32 39.38 l 94.15 39.38 94.15 67.91 69.4 67.91 69.4 94.94 92.57 94.94 92.57 122.06 69.4 122.06 69.4 153.42 96.62 153.42 96.62 181.95 32.32 181.95 32.32 39.38 m 107.26 39.38 l 144.26 39.38 b 155.93 39.38 164.79 40.28 170.8 42.11 176.82 43.92 181.68 47.61 185.38 53.16 189.09 58.7 190.93 67.64 190.93 79.97 190.93 88.31 189.62 94.13 187.01 97.41 184.4 100.7 179.24 103.22 171.55 104.98 180.13 106.92 185.95 110.14 188.99 114.63 192.04 119.13 193.57 126 193.57 135.28 l 193.57 148.48 b 193.57 158.13 192.48 165.25 190.27 169.89 188.07 174.53 184.55 177.7 179.74 179.41 174.93 181.11 165.07 181.95 150.15 181.95 l 107.26 181.95 107.26 39.38 m 144.34 63.77 l 144.34 95.47 b 145.93 95.42 147.16 95.39 148.04 95.39 151.68 95.39 153.99 94.48 154.99 92.7 155.99 90.91 156.49 85.78 156.49 77.33 156.49 72.88 156.09 69.75 155.26 67.95 154.45 66.16 153.37 65.03 152.04 64.56 150.73 64.09 148.16 63.83 144.34 63.77 l 144.34 63.77 m 144.34 117.67 l 144.34 157.56 b 149.57 157.39 152.9 156.56 154.34 155.09 155.77 153.63 156.49 150.02 156.49 144.27 l 156.49 130.97 b 156.49 124.86 155.85 121.16 154.55 119.88 153.26 118.58 149.87 117.84 144.34 117.67 l 144.34 117.67 m 243.95 39.38 l 243.95 181.95 206.87 181.95 206.87 39.38 243.95 39.38 m 236.9 11.98 l 236.9 34.88 213.91 34.88 213.91 11.98 236.9 11.98 m 295.9 39.38 l 295.9 153.42 318.45 153.42 318.45 181.95 258.82 181.95 258.82 39.38 295.9 39.38 m 327.43 39.38 l 389.26 39.38 389.26 67.91 364.51 67.91 364.51 94.94 387.68 94.94 387.68 122.06 364.51 122.06 364.51 153.42 391.73 153.42 391.73 181.95 327.43 181.95 327.43 39.38 m 485.16 39.38 l 485.16 181.95 452.66 181.95 433.37 117.14 433.37 181.95 402.37 181.95 402.37 39.38 433.37 39.38 454.16 103.58 454.16 39.38 485.16 39.38
+Dialogue: 0,0:22:43.76,0:22:47.26,e-ts,,0,0,0,,{\an7\pos(115,950)\c&H4009BB&\blur0.3\p1}m 52.17 22.81 l 36.52 76.72 36.52 107.52 14.48 107.52 14.48 76.75 -0.61 22.81 21.06 22.81 b 24.28 39.52 25.84 50.34 25.75 55.31 26 47.11 27.58 36.28 30.5 22.81 l 52.17 22.81 m 105.42 37.72 l 105.42 107.52 82.33 107.52 82.69 101.91 b 82.47 104.02 81.23 105.69 78.98 106.91 76.75 108.13 74.17 108.73 71.25 108.73 67.95 108.73 65.2 108.16 63 106.98 60.8 105.8 59.17 104.23 58.13 102.28 57.06 100.33 56.42 98.34 56.17 96.31 55.92 94.3 55.8 90.33 55.8 84.42 l 55.8 37.72 78.55 37.72 78.55 84.83 b 78.55 90.03 78.66 92.95 78.88 93.63 79.09 94.3 79.67 94.63 80.58 94.63 81.58 94.63 82.17 94.27 82.38 93.55 82.58 92.83 82.69 89.75 82.69 84.31 l 82.69 37.72 105.42 37.72 m 160.33 37.72 l 151.97 65.8 162.83 107.52 141.05 107.52 136.56 78.03 136.56 107.52 113.81 107.52 113.81 22.81 136.56 22.81 136.56 57.5 141.14 37.72 160.33 37.72 m 187.33 66.05 l 165.86 66.05 165.86 60.45 b 165.86 55.06 166.5 50.88 167.78 47.88 169.06 44.86 171.61 42.22 175.44 39.92 179.28 37.64 184.19 36.48 190.19 36.48 197.38 36.48 202.83 37.8 206.58 40.41 210.33 43.03 212.58 46.22 213.34 50 214.09 53.78 214.47 61.28 214.47 72.48 l 214.47 107.52 192.28 107.52 192.28 101.5 b 192.27 103.72 191.19 105.47 189.03 106.78 186.88 108.09 184.33 108.73 181.36 108.73 177.52 108.73 173.98 107.66 170.73 105.47 167.48 103.28 165.86 98.58 165.86 91.36 l 165.86 85.8 b 165.86 80.45 166.73 76.8 168.47 74.8 170.2 72.81 174.31 70.55 180.81 68.03 187.33 65.48 190.78 63.84 191.16 63.11 191.53 62.39 191.72 60.7 191.72 58.05 191.72 54.7 191.52 52.63 191.13 51.81 190.72 51 190.14 50.59 189.38 50.59 188.47 50.59 187.91 50.91 187.67 51.5 187.45 52.09 187.33 54.23 187.33 57.91 l 187.33 66.05 m 191.72 75.33 b 189.73 77.48 188.52 79.28 188.05 80.73 187.56 82.19 187.33 84.41 187.33 87.38 187.33 90.75 187.5 92.8 187.83 93.53 188.16 94.27 188.78 94.63 189.67 94.63 190.52 94.63 191.08 94.36 191.33 93.83 191.59 93.3 191.72 91.42 191.72 88.19 l 191.72 75.33 m 245.25 37.72 l 244.44 46.58 b 246.23 40.27 250.58 36.91 257.44 36.48 l 257.44 62.44 b 253.14 62.44 250.22 62.88 248.66 63.77 247.11 64.67 246.16 65.92 245.8 67.55 245.42 69.17 245.25 73.23 245.25 79.73 l 245.25 107.52 222.5 107.52 222.5 37.72 245.25 37.72 m 286.02 37.72 l 286.02 107.52 262.66 107.52 262.66 37.72 286.02 37.72 m 315.27 22.81 l 337.75 22.81 b 344.61 22.81 349.88 23.38 353.55 24.48 357.2 25.59 360.17 27.86 362.45 31.27 364.72 34.67 365.86 40.05 365.86 47.39 365.86 52.47 365.03 56.06 363.36 58.16 361.69 60.27 358.78 61.5 354.64 61.88 359.31 62.38 362.59 64.03 364.52 66.86 366.44 69.67 367.39 73.86 367.39 79.42 l 367.39 87.08 b 367.39 92.8 366.7 97.11 365.33 100.02 363.95 102.91 361.77 104.89 358.8 105.94 355.83 106.98 349.95 107.52 341.17 107.52 l 315.27 107.52 315.27 22.81 m 338.88 39.08 l 338.88 55.31 b 339.34 55.28 339.7 55.25 339.95 55.25 341.64 55.25 342.7 54.88 343.13 54.09 343.56 53.31 343.78 50.58 343.78 45.86 343.78 43.45 343.59 41.84 343.2 41 342.81 40.16 342.33 39.64 341.75 39.42 341.17 39.22 340.22 39.11 338.88 39.08 l 338.88 39.08 m 338.88 70.28 l 338.88 91.27 b 340.88 91.19 342.19 90.81 342.83 90.17 343.47 89.52 343.78 87.67 343.78 84.63 l 343.78 76.92 b 343.78 73.7 343.5 71.81 342.95 71.25 342.39 70.7 341.05 70.38 338.88 70.28 l 338.88 70.28 m 396.08 66.05 l 374.61 66.05 374.61 60.45 b 374.61 55.06 375.25 50.88 376.53 47.88 377.81 44.86 380.36 42.22 384.19 39.92 388.03 37.64 392.94 36.48 398.94 36.48 406.13 36.48 411.58 37.8 415.33 40.41 419.08 43.03 421.33 46.22 422.09 50 422.84 53.78 423.22 61.28 423.22 72.48 l 423.22 107.52 401.03 107.52 401.03 101.5 b 401.02 103.72 399.94 105.47 397.78 106.78 395.63 108.09 393.08 108.73 390.11 108.73 386.27 108.73 382.73 107.66 379.48 105.47 376.23 103.28 374.61 98.58 374.61 91.36 l 374.61 85.8 b 374.61 80.45 375.48 76.8 377.22 74.8 378.95 72.81 383.06 70.55 389.56 68.03 396.08 65.48 399.53 63.84 399.91 63.11 400.28 62.39 400.47 60.7 400.47 58.05 400.47 54.7 400.27 52.63 399.88 51.81 399.47 51 398.89 50.59 398.13 50.59 397.22 50.59 396.66 50.91 396.42 51.5 396.2 52.09 396.08 54.23 396.08 57.91 l 396.08 66.05 m 400.47 75.33 b 398.48 77.48 397.27 79.28 396.8 80.73 396.31 82.19 396.08 84.41 396.08 87.38 396.08 90.75 396.25 92.8 396.58 93.53 396.91 94.27 397.53 94.63 398.42 94.63 399.27 94.63 399.83 94.36 400.08 93.83 400.34 93.3 400.47 91.42 400.47 88.19 l 400.47 75.33 m 477.77 37.72 l 469.41 65.8 480.27 107.52 458.48 107.52 454 78.03 454 107.52 431.25 107.52 431.25 22.81 454 22.81 454 57.5 458.58 37.72 477.77 37.72 m 506.7 37.72 l 506.36 44.14 b 506.72 41.78 508.09 39.92 510.47 38.55 512.84 37.17 515.53 36.48 518.53 36.48 524.44 36.48 528.78 39.03 531.59 44.14 532.81 41.75 534.58 39.89 536.89 38.53 539.22 37.17 541.8 36.48 544.66 36.48 548.39 36.48 551.5 37.41 553.98 39.25 556.47 41.09 558.06 43.34 558.77 46 559.45 48.64 559.8 52.77 559.8 58.36 l 559.8 107.52 537.67 107.52 537.67 62.34 b 537.67 56.67 537.52 53.31 537.2 52.22 536.91 51.14 536.3 50.59 535.42 50.59 534.48 50.59 533.86 51.13 533.53 52.19 533.19 53.25 533.03 56.64 533.03 62.34 l 533.03 107.52 510.89 107.52 510.89 63.45 b 510.89 56.95 510.77 53.19 510.52 52.16 510.27 51.13 509.69 50.59 508.8 50.59 508.19 50.59 507.66 50.84 507.2 51.34 506.75 51.83 506.48 52.47 506.44 53.27 506.38 54.08 506.36 56.16 506.36 59.53 l 506.36 107.52 484.22 107.52 484.22 37.72 506.7 37.72 m 588.95 66.05 l 567.48 66.05 567.48 60.45 b 567.48 55.06 568.13 50.88 569.41 47.88 570.69 44.86 573.23 42.22 577.06 39.92 580.91 37.64 585.81 36.48 591.81 36.48 599 36.48 604.45 37.8 608.2 40.41 611.95 43.03 614.2 46.22 614.97 50 615.72 53.78 616.09 61.28 616.09 72.48 l 616.09 107.52 593.91 107.52 593.91 101.5 b 593.89 103.72 592.81 105.47 590.66 106.78 588.5 108.09 585.95 108.73 582.98 108.73 579.14 108.73 575.61 107.66 572.36 105.47 569.11 103.28 567.48 98.58 567.48 91.36 l 567.48 85.8 b 567.48 80.45 568.36 76.8 570.09 74.8 571.83 72.81 575.94 70.55 582.44 68.03 588.95 65.48 592.41 63.84 592.78 63.11 593.16 62.39 593.34 60.7 593.34 58.05 593.34 54.7 593.14 52.63 592.75 51.81 592.34 51 591.77 50.59 591 50.59 590.09 50.59 589.53 50.91 589.3 51.5 589.08 52.09 588.95 54.23 588.95 57.91 l 588.95 66.05 m 593.34 75.33 b 591.36 77.48 590.14 79.28 589.67 80.73 589.19 82.19 588.95 84.41 588.95 87.38 588.95 90.75 589.13 92.8 589.45 93.53 589.78 94.27 590.41 94.63 591.3 94.63 592.14 94.63 592.7 94.36 592.95 93.83 593.22 93.3 593.34 91.42 593.34 88.19 l 593.34 75.33 m 670.64 37.72 l 662.28 65.8 673.14 107.52 651.36 107.52 646.88 78.03 646.88 107.52 624.13 107.52 624.13 22.81 646.88 22.81 646.88 57.5 651.45 37.72 670.64 37.72 m 746.39 22.81 l 730.73 76.72 730.73 107.52 708.7 107.52 708.7 76.75 693.61 22.81 715.28 22.81 b 718.5 39.52 720.06 50.34 719.97 55.31 720.22 47.11 721.8 36.28 724.72 22.81 l 746.39 22.81 m 799.08 62.55 l 799.08 79.11 b 799.08 85.25 798.77 89.81 798.13 92.78 797.48 95.75 796.11 98.55 793.98 101.14 791.88 103.75 789.16 105.67 785.86 106.89 782.56 108.13 778.81 108.73 774.59 108.73 769.89 108.73 765.89 108.22 762.61 107.17 759.33 106.14 756.73 104.53 754.86 102.36 753 100.2 751.67 97.63 750.89 94.63 750.11 91.64 749.72 87.22 749.72 81.36 l 749.72 64.02 b 749.72 57.61 750.44 52.53 751.86 48.83 753.28 45.11 755.86 42.13 759.59 39.88 763.31 37.61 768.03 36.48 773.73 36.48 778.48 36.48 782.61 37.2 786.06 38.64 789.53 40.08 792.22 41.97 794.13 44.31 796.03 46.66 797.34 49.06 798.03 51.53 798.73 54.02 799.08 57.67 799.08 62.55 l 799.08 62.55 m 776.34 57.44 b 776.34 54.14 776.2 52.17 775.95 51.55 775.69 50.92 775.19 50.59 774.44 50.59 773.69 50.59 773.17 50.91 772.89 51.53 772.61 52.16 772.47 54.13 772.47 57.44 l 772.47 87.98 b 772.47 91.08 772.61 92.97 772.89 93.63 773.17 94.3 773.67 94.63 774.39 94.63 775.16 94.63 775.67 94.33 775.94 93.72 776.2 93.11 776.34 91.42 776.34 88.66 l 776.34 57.44 m 829.58 37.72 l 828.77 46.58 b 830.56 40.27 834.91 36.91 841.77 36.48 l 841.77 62.44 b 837.47 62.44 834.55 62.88 832.98 63.77 831.44 64.67 830.48 65.92 830.13 67.55 829.75 69.17 829.58 73.23 829.58 79.73 l 829.58 107.52 806.83 107.52 806.83 37.72 829.58 37.72 m 869.47 37.72 l 869.13 44.14 b 869.48 41.78 870.86 39.92 873.23 38.55 875.61 37.17 878.3 36.48 881.3 36.48 887.2 36.48 891.55 39.03 894.36 44.14 895.58 41.75 897.34 39.89 899.66 38.53 901.98 37.17 904.56 36.48 907.42 36.48 911.16 36.48 914.27 37.41 916.75 39.25 919.23 41.09 920.83 43.34 921.53 46 922.22 48.64 922.56 52.77 922.56 58.36 l 922.56 107.52 900.44 107.52 900.44 62.34 b 900.44 56.67 900.28 53.31 899.97 52.22 899.67 51.14 899.06 50.59 898.19 50.59 897.25 50.59 896.63 51.13 896.3 52.19 895.95 53.25 895.8 56.64 895.8 62.34 l 895.8 107.52 873.66 107.52 873.66 63.45 b 873.66 56.95 873.53 53.19 873.28 52.16 873.03 51.13 872.45 50.59 871.56 50.59 870.95 50.59 870.42 50.84 869.97 51.34 869.52 51.83 869.25 52.47 869.2 53.27 869.14 54.08 869.13 56.16 869.13 59.53 l 869.13 107.52 846.98 107.52 846.98 37.72 869.47 37.72 m 951.72 66.05 l 930.25 66.05 930.25 60.45 b 930.25 55.06 930.89 50.88 932.17 47.88 933.45 44.86 936 42.22 939.83 39.92 943.67 37.64 948.58 36.48 954.58 36.48 961.77 36.48 967.22 37.8 970.97 40.41 974.72 43.03 976.97 46.22 977.73 50 978.48 53.78 978.86 61.28 978.86 72.48 l 978.86 107.52 956.67 107.52 956.67 101.5 b 956.66 103.72 955.58 105.47 953.42 106.78 951.27 108.09 948.72 108.73 945.75 108.73 941.91 108.73 938.38 107.66 935.13 105.47 931.88 103.28 930.25 98.58 930.25 91.36 l 930.25 85.8 b 930.25 80.45 931.13 76.8 932.86 74.8 934.59 72.81 938.7 70.55 945.2 68.03 951.72 65.48 955.17 63.84 955.55 63.11 955.92 62.39 956.11 60.7 956.11 58.05 956.11 54.7 955.91 52.63 955.52 51.81 955.11 51 954.53 50.59 953.77 50.59 952.86 50.59 952.3 50.91 952.06 51.5 951.84 52.09 951.72 54.23 951.72 57.91 l 951.72 66.05 m 956.11 75.33 b 954.13 77.48 952.91 79.28 952.44 80.73 951.95 82.19 951.72 84.41 951.72 87.38 951.72 90.75 951.89 92.8 952.22 93.53 952.55 94.27 953.17 94.63 954.06 94.63 954.91 94.63 955.47 94.36 955.72 93.83 955.98 93.3 956.11 91.42 956.11 88.19 l 956.11 75.33 m 1032.19 37.72 l 1026.25 87.88 b 1025.33 95.66 1024.53 101.02 1023.89 103.94 1023.23 106.84 1022.13 109.3 1020.55 111.28 1018.97 113.27 1016.81 114.7 1014.05 115.63 1011.3 116.55 1007 117 1001.16 117 l 987.61 117 987.61 104.06 b 991.39 104.06 993.59 103.95 994.22 103.73 994.84 103.52 995.16 103.09 995.16 102.47 995.16 102.02 994.73 99.73 993.89 95.61 l 982.61 37.72 1003.31 37.72 1008.75 83.36 1011.39 37.72 1032.19 37.72 m 1057.22 66.05 l 1035.75 66.05 1035.75 60.45 b 1035.75 55.06 1036.39 50.88 1037.67 47.88 1038.95 44.86 1041.5 42.22 1045.33 39.92 1049.17 37.64 1054.08 36.48 1060.08 36.48 1067.27 36.48 1072.72 37.8 1076.47 40.41 1080.22 43.03 1082.47 46.22 1083.23 50 1083.98 53.78 1084.36 61.28 1084.36 72.48 l 1084.36 107.52 1062.17 107.52 1062.17 101.5 b 1062.16 103.72 1061.08 105.47 1058.92 106.78 1056.77 108.09 1054.22 108.73 1051.25 108.73 1047.41 108.73 1043.88 107.66 1040.63 105.47 1037.38 103.28 1035.75 98.58 1035.75 91.36 l 1035.75 85.8 b 1035.75 80.45 1036.63 76.8 1038.36 74.8 1040.09 72.81 1044.2 70.55 1050.7 68.03 1057.22 65.48 1060.67 63.84 1061.05 63.11 1061.42 62.39 1061.61 60.7 1061.61 58.05 1061.61 54.7 1061.41 52.63 1061.02 51.81 1060.61 51 1060.03 50.59 1059.27 50.59 1058.36 50.59 1057.8 50.91 1057.56 51.5 1057.34 52.09 1057.22 54.23 1057.22 57.91 l 1057.22 66.05 m 1061.61 75.33 b 1059.63 77.48 1058.41 79.28 1057.94 80.73 1057.45 82.19 1057.22 84.41 1057.22 87.38 1057.22 90.75 1057.39 92.8 1057.72 93.53 1058.05 94.27 1058.67 94.63 1059.56 94.63 1060.41 94.63 1060.97 94.36 1061.22 93.83 1061.48 93.3 1061.61 91.42 1061.61 88.19 l 1061.61 75.33 m 1113.8 22.81 l 1136.28 22.81 b 1143.14 22.81 1148.41 23.38 1152.08 24.48 1155.73 25.59 1158.7 27.86 1160.98 31.27 1163.25 34.67 1164.39 40.05 1164.39 47.39 1164.39 52.47 1163.56 56.06 1161.89 58.16 1160.22 60.27 1157.31 61.5 1153.17 61.88 1157.84 62.38 1161.13 64.03 1163.05 66.86 1164.97 69.67 1165.92 73.86 1165.92 79.42 l 1165.92 87.08 b 1165.92 92.8 1165.23 97.11 1163.86 100.02 1162.48 102.91 1160.3 104.89 1157.33 105.94 1154.36 106.98 1148.48 107.52 1139.7 107.52 l 1113.8 107.52 1113.8 22.81 m 1137.41 39.08 l 1137.41 55.31 b 1137.88 55.28 1138.23 55.25 1138.48 55.25 1140.17 55.25 1141.23 54.88 1141.66 54.09 1142.09 53.31 1142.31 50.58 1142.31 45.86 1142.31 43.45 1142.13 41.84 1141.73 41 1141.34 40.16 1140.86 39.64 1140.28 39.42 1139.7 39.22 1138.75 39.11 1137.41 39.08 l 1137.41 39.08 m 1137.41 70.28 l 1137.41 91.27 b 1139.41 91.19 1140.72 90.81 1141.36 90.17 1142 89.52 1142.31 87.67 1142.31 84.63 l 1142.31 76.92 b 1142.31 73.7 1142.03 71.81 1141.48 71.25 1140.92 70.7 1139.58 70.38 1137.41 70.28 l 1137.41 70.28 m 1194.61 66.05 l 1173.14 66.05 1173.14 60.45 b 1173.14 55.06 1173.78 50.88 1175.06 47.88 1176.34 44.86 1178.89 42.22 1182.72 39.92 1186.56 37.64 1191.47 36.48 1197.47 36.48 1204.66 36.48 1210.11 37.8 1213.86 40.41 1217.61 43.03 1219.86 46.22 1220.63 50 1221.38 53.78 1221.75 61.28 1221.75 72.48 l 1221.75 107.52 1199.56 107.52 1199.56 101.5 b 1199.55 103.72 1198.47 105.47 1196.31 106.78 1194.16 108.09 1191.61 108.73 1188.64 108.73 1184.8 108.73 1181.27 107.66 1178.02 105.47 1174.77 103.28 1173.14 98.58 1173.14 91.36 l 1173.14 85.8 b 1173.14 80.45 1174.02 76.8 1175.75 74.8 1177.48 72.81 1181.59 70.55 1188.09 68.03 1194.61 65.48 1198.06 63.84 1198.44 63.11 1198.81 62.39 1199 60.7 1199 58.05 1199 54.7 1198.8 52.63 1198.41 51.81 1198 51 1197.42 50.59 1196.66 50.59 1195.75 50.59 1195.19 50.91 1194.95 51.5 1194.73 52.09 1194.61 54.23 1194.61 57.91 l 1194.61 66.05 m 1199 75.33 b 1197.02 77.48 1195.8 79.28 1195.33 80.73 1194.84 82.19 1194.61 84.41 1194.61 87.38 1194.61 90.75 1194.78 92.8 1195.11 93.53 1195.44 94.27 1196.06 94.63 1196.95 94.63 1197.8 94.63 1198.36 94.36 1198.61 93.83 1198.88 93.3 1199 91.42 1199 88.19 l 1199 75.33 m 1254.67 108.72 l 1254.67 108.05 b 1255.94 108.05 1257.48 108.73 1259.3 110.11 1261.11 111.48 1262.02 113.41 1262.02 115.84 1262.02 118.73 1260.86 121.22 1258.55 123.31 1256.23 125.39 1253.47 126.44 1250.28 126.44 1244.39 126.44 1240.64 123.05 1239.02 116.25 l 1248.39 116.25 b 1248.88 117.69 1249.48 118.39 1250.22 118.39 1251.52 118.39 1252.17 117.73 1252.17 116.41 1252.17 114.86 1251.11 114.09 1249 114.09 l 1246.56 114.09 1246.56 108.27 b 1243.13 107.81 1240 106.8 1237.19 105.19 1234.36 103.59 1232.27 101.47 1230.88 98.81 1229.5 96.17 1228.81 91.88 1228.81 85.95 l 1228.81 81.63 1249.22 81.63 1249.22 86.97 b 1249.22 90.5 1249.38 92.66 1249.7 93.45 1250.05 94.23 1250.66 94.63 1251.55 94.63 1252.67 94.63 1253.42 94.38 1253.83 93.88 1254.22 93.38 1254.42 92.08 1254.42 89.98 1254.42 87.03 1254.09 85.23 1253.47 84.56 1252.84 83.88 1248.97 81.56 1241.84 77.59 1235.59 74.09 1231.77 70.88 1230.36 67.92 1228.95 64.98 1228.25 61.52 1228.25 57.55 1228.25 51.95 1229.02 47.78 1230.55 45.02 1232.08 42.27 1234.66 40.16 1238.25 38.69 1241.84 37.22 1245.97 36.48 1250.64 36.48 1255.23 36.48 1259.19 37.08 1262.47 38.28 1265.77 39.47 1268.31 41.06 1270.13 43.08 1271.94 45.09 1273.03 46.97 1273.42 48.7 1273.81 50.44 1274 53.03 1274 56.47 l 1274 61.47 1253.59 61.47 1253.59 56.72 b 1253.59 53.75 1253.48 52 1253.23 51.44 1253 50.88 1252.41 50.59 1251.45 50.59 1249.86 50.59 1249.06 51.78 1249.06 54.13 1249.06 56.11 1249.19 57.52 1249.42 58.33 1249.67 59.16 1250.44 60.08 1251.75 61.13 1253.05 62.17 1255.94 63.78 1260.39 65.98 1266.53 68.98 1270.59 71.86 1272.59 74.61 1274.58 77.38 1275.58 81.33 1275.58 86.47 1275.58 91.84 1274.91 96 1273.58 98.92 1272.23 101.83 1269.89 104.17 1266.56 105.94 1263.23 107.7 1259.27 108.63 1254.67 108.72 l 1254.67 108.72 m 1305.33 22.81 l 1305.33 107.52 1281.97 107.52 1281.97 22.81 1305.33 22.81 m 1333.72 66.05 l 1312.25 66.05 1312.25 60.45 b 1312.25 55.06 1312.89 50.88 1314.17 47.88 1315.45 44.86 1318 42.22 1321.83 39.92 1325.67 37.64 1330.58 36.48 1336.58 36.48 1343.77 36.48 1349.22 37.8 1352.97 40.41 1356.72 43.03 1358.97 46.22 1359.73 50 1360.48 53.78 1360.86 61.28 1360.86 72.48 l 1360.86 107.52 1338.67 107.52 1338.67 101.5 b 1338.66 103.72 1337.58 105.47 1335.42 106.78 1333.27 108.09 1330.72 108.73 1327.75 108.73 1323.91 108.73 1320.38 107.66 1317.13 105.47 1313.88 103.28 1312.25 98.58 1312.25 91.36 l 1312.25 85.8 b 1312.25 80.45 1313.13 76.8 1314.86 74.8 1316.59 72.81 1320.7 70.55 1327.2 68.03 1333.72 65.48 1337.17 63.84 1337.55 63.11 1337.92 62.39 1338.11 60.7 1338.11 58.05 1338.11 54.7 1337.91 52.63 1337.52 51.81 1337.11 51 1336.53 50.59 1335.77 50.59 1334.86 50.59 1334.3 50.91 1334.06 51.5 1333.84 52.09 1333.72 54.23 1333.72 57.91 l 1333.72 66.05 m 1338.11 75.33 b 1336.13 77.48 1334.91 79.28 1334.44 80.73 1333.95 82.19 1333.72 84.41 1333.72 87.38 1333.72 90.75 1333.89 92.8 1334.22 93.53 1334.55 94.27 1335.17 94.63 1336.06 94.63 1336.91 94.63 1337.47 94.36 1337.72 93.83 1337.98 93.3 1338.11 91.42 1338.11 88.19 l 1338.11 75.33 m 1391.38 37.72 l 1391.03 44.14 b 1391.39 41.78 1392.77 39.92 1395.14 38.55 1397.52 37.17 1400.2 36.48 1403.2 36.48 1409.11 36.48 1413.45 39.03 1416.27 44.14 1417.48 41.75 1419.25 39.89 1421.56 38.53 1423.89 37.17 1426.47 36.48 1429.33 36.48 1433.06 36.48 1436.17 37.41 1438.66 39.25 1441.14 41.09 1442.73 43.34 1443.44 46 1444.13 48.64 1444.47 52.77 1444.47 58.36 l 1444.47 107.52 1422.34 107.52 1422.34 62.34 b 1422.34 56.67 1422.19 53.31 1421.88 52.22 1421.58 51.14 1420.97 50.59 1420.09 50.59 1419.16 50.59 1418.53 51.13 1418.2 52.19 1417.86 53.25 1417.7 56.64 1417.7 62.34 l 1417.7 107.52 1395.56 107.52 1395.56 63.45 b 1395.56 56.95 1395.44 53.19 1395.19 52.16 1394.94 51.13 1394.36 50.59 1393.47 50.59 1392.86 50.59 1392.33 50.84 1391.88 51.34 1391.42 51.83 1391.16 52.47 1391.11 53.27 1391.05 54.08 1391.03 56.16 1391.03 59.53 l 1391.03 107.52 1368.89 107.52 1368.89 37.72 1391.38 37.72 m 1476.44 37.72 l 1476.44 107.52 1453.08 107.52 1453.08 37.72 1476.44 37.72 m 1509.17 108.72 l 1509.17 108.05 b 1510.44 108.05 1511.98 108.73 1513.8 110.11 1515.61 111.48 1516.52 113.41 1516.52 115.84 1516.52 118.73 1515.36 121.22 1513.05 123.31 1510.73 125.39 1507.97 126.44 1504.78 126.44 1498.89 126.44 1495.14 123.05 1493.52 116.25 l 1502.89 116.25 b 1503.38 117.69 1503.98 118.39 1504.72 118.39 1506.02 118.39 1506.67 117.73 1506.67 116.41 1506.67 114.86 1505.61 114.09 1503.5 114.09 l 1501.06 114.09 1501.06 108.27 b 1497.63 107.81 1494.5 106.8 1491.69 105.19 1488.86 103.59 1486.77 101.47 1485.38 98.81 1484 96.17 1483.31 91.88 1483.31 85.95 l 1483.31 81.63 1503.72 81.63 1503.72 86.97 b 1503.72 90.5 1503.88 92.66 1504.2 93.45 1504.55 94.23 1505.16 94.63 1506.05 94.63 1507.17 94.63 1507.92 94.38 1508.33 93.88 1508.72 93.38 1508.92 92.08 1508.92 89.98 1508.92 87.03 1508.59 85.23 1507.97 84.56 1507.34 83.88 1503.47 81.56 1496.34 77.59 1490.09 74.09 1486.27 70.88 1484.86 67.92 1483.45 64.98 1482.75 61.52 1482.75 57.55 1482.75 51.95 1483.52 47.78 1485.05 45.02 1486.58 42.27 1489.16 40.16 1492.75 38.69 1496.34 37.22 1500.47 36.48 1505.14 36.48 1509.73 36.48 1513.69 37.08 1516.97 38.28 1520.27 39.47 1522.81 41.06 1524.63 43.08 1526.44 45.09 1527.53 46.97 1527.92 48.7 1528.31 50.44 1528.5 53.03 1528.5 56.47 l 1528.5 61.47 1508.09 61.47 1508.09 56.72 b 1508.09 53.75 1507.98 52 1507.73 51.44 1507.5 50.88 1506.91 50.59 1505.95 50.59 1504.36 50.59 1503.56 51.78 1503.56 54.13 1503.56 56.11 1503.69 57.52 1503.92 58.33 1504.17 59.16 1504.94 60.08 1506.25 61.13 1507.55 62.17 1510.44 63.78 1514.89 65.98 1521.03 68.98 1525.09 71.86 1527.09 74.61 1529.08 77.38 1530.08 81.33 1530.08 86.47 1530.08 91.84 1529.41 96 1528.08 98.92 1526.73 101.83 1524.39 104.17 1521.06 105.94 1517.73 107.7 1513.77 108.63 1509.17 108.72 l 1509.17 108.72 m 1560.34 28.69 l 1560.34 39.34 1565.89 39.34 1565.89 52.17 1560.34 52.17 1560.34 87.33 b 1560.34 91.53 1560.47 93.77 1560.72 94.05 1560.97 94.34 1562.98 94.48 1566.77 94.48 l 1566.77 107.52 1557.38 107.52 b 1552.59 107.52 1549.14 107.31 1547 106.89 1544.86 106.47 1542.95 105.5 1541.27 103.94 1539.59 102.39 1538.55 100.64 1538.14 98.67 1537.75 96.7 1537.55 92.31 1537.55 85.48 l 1537.55 52.17 1533.11 52.17 1533.11 39.34 1537.55 39.34 1537.55 28.69 1560.34 28.69 m 1594.31 37.72 l 1594.31 107.52 1570.95 107.52 1570.95 37.72 1594.31 37.72
+Dialogue: 0,0:23:36.27,0:23:40.02,e-ts,,0,0,0,,{\pos(1050,590)\fnSolo Sans\fs40\fsp2\bord1\c&HFF32B1&\3c&HFF32B1&\alpha&H20&\blur3\fad(800,0)\t(1519,1519,\blur4\bord3)\t(1526,2062,\blur5\bord6)\t(2108,2562,\alpha&HFF&)}Tüm Olanlara Değdi
+Dialogue: 1,0:23:36.27,0:23:40.02,e-ts,,0,0,0,,{\pos(1050,590)\fnSolo Sans\fs40\fsp2\c&HFFFBFF&\3c&HFFFBFF&\alpha&H30&\blur1\fad(1316,0)\t(1651,1651,\blur2\bord1)\t(25,2354,\alpha&HFF&)}Tüm Olanlara Değdi
+Dialogue: 2,0:23:36.27,0:23:40.02,e-ts,,0,0,0,,{\pos(1050,590)\fnSolo Sans\fs40\fsp2\c&HFFF7FA&\blur0.6\fad(1316,0)}Tüm Olanlara Değdi
+Comment: 0,0:00:33.01,0:02:02.98,OPL,,0,0,0,,{OP}
+Dialogue: 1,0:00:38.81,0:00:42.65,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}Gücümün sınırını çoktan kabul etmişim
+Dialogue: 1,0:00:42.65,0:00:46.15,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}Boyun eğmişim kaderime, bir de bakmışım ki
+Dialogue: 1,0:00:46.15,0:00:49.95,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}İntikam ateşiyle yeniden uyanmışım
+Dialogue: 1,0:00:49.95,0:00:53.87,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}Akıl sır ermeyen emirlere rağmen!
+Dialogue: 1,0:01:07.34,0:01:10.80,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}Tekrar oyundayım, devam edebiliriz!
+Dialogue: 1,0:01:11.05,0:01:14.55,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}Kaderi baştan yazabiliriz! {##Kaderi değiştirebiliriz!}
+Dialogue: 1,0:01:14.76,0:01:18.27,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}Oyuna döndüm, direnebiliriz!
+Dialogue: 1,0:01:18.43,0:01:22.23,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}Her savaş öğretir bir avcıya!
+Dialogue: 1,0:01:22.40,0:01:25.82,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}Acılarımızı...
+Dialogue: 1,0:01:25.82,0:01:29.40,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}...hiçbir şey dindirmez!
+Dialogue: 1,0:01:29.65,0:01:33.28,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}Odaklanıyorum
+Dialogue: 1,0:01:33.28,0:01:37.08,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}Vadedilmemiş değişime
+Dialogue: 1,0:01:37.08,0:01:40.62,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}Oyuna döndüm, devam edebiliriz!
+Dialogue: 1,0:01:40.75,0:01:44.25,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}Kalk! Kulak verelim anılara!
+Dialogue: 1,0:01:44.54,0:01:48.21,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}Oyuna döndüm, direnebiliriz!
+Dialogue: 1,0:01:48.21,0:01:51.97,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}Yüksek sınıflara göz kırpıyorum!
+Dialogue: 1,0:01:51.97,0:01:55.55,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}Acılarımızı...
+Dialogue: 1,0:01:55.64,0:01:59.22,OPL,,0,0,0,,{\an3\bord7\c&H89300B&\3c&H9A9A9C&\blur8\fad(150,110)}...hiçbir şey dindirmez!
+Dialogue: 1,0:00:53.87,0:00:55.58,OPL,,0,0,0,,{\an7\c&H413BDE&\blur3\fad(150,110)}Seni çekip bitiriyorlar!
+Dialogue: 1,0:00:55.58,0:00:57.50,OPL,,0,0,0,,{\an7\c&H413BDE&\blur3\fad(150,110)}Heykeldeki zayiat!
+Dialogue: 1,0:00:57.50,0:00:59.50,OPL,,0,0,0,,{\an7\c&H413BDE&\blur3\fad(150,110)}Saf özlem ve tüm bu acılar!
+Dialogue: 1,0:00:59.50,0:01:01.21,OPL,,0,0,0,,{\an7\c&H413BDE&\blur3\fad(150,110)}O günden kalan bulanık anılar!
+Dialogue: 1,0:01:01.21,0:01:03.17,OPL,,0,0,0,,{\an7\c&H413BDE&\blur3\fad(150,110)}Işıktan uzaklaştıkça
+Dialogue: 1,0:01:03.17,0:01:04.96,OPL,,0,0,0,,{\an7\c&H413BDE&\blur3\fad(150,110)}Alıyorum istediğimi
+Dialogue: 1,0:01:04.96,0:01:07.34,OPL,,0,0,0,,{\an7\c&H413BDE&\blur3\fad(150,110)}Giges'in yüzüğüyle!
+Dialogue: 1,0:01:23.81,0:01:26.36,OPL,,0,0,0,,{\an7\c&H413BDE&\blur3\fad(150,110)}Kıstırır kapana, yakalarız!
+Dialogue: 1,0:01:27.48,0:01:31.24,OPL,,0,0,0,,{\an7\c&H413BDE&\blur3\fad(150,110)}Tuzağa çeker, istifleriz üst üste!
+Dialogue: 1,0:01:31.24,0:01:34.07,OPL,,0,0,0,,{\an7\c&H413BDE&\blur3\fad(150,110)}Harekete geçip, kapana kıstıracağım
+Dialogue: 1,0:01:34.99,0:01:37.62,OPL,,0,0,0,,{\an7\c&H413BDE&\blur3\fad(150,110)}Tuzağa çeker, harekete geçeriz!
+Dialogue: 1,0:01:53.84,0:01:56.97,OPL,,0,0,0,,{\an7\c&H413BDE&\blur3\fad(150,110)}Kıstırır kapana, yakalarız!
+Dialogue: 1,0:01:57.47,0:02:00.35,OPL,,0,0,0,,{\an7\c&H413BDE&\blur3\fad(150,110)}Tuzağa çeker, istifleriz üst üste!
+Comment: 0,0:22:05.01,0:23:33.06,EDL,,0,0,0,,{\fad(250,150)\blur0.5}{ED}
+Dialogue: 0,0:22:12.15,0:22:18.65,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(6360,6405,\1a&HFF&)}Kendimden daha aşağılık birini tanımam!
+Dialogue: 1,0:22:12.15,0:22:18.65,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}Kendimden daha aşağılık birini tanımam!
+Dialogue: 0,0:22:19.32,0:22:25.87,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(6400,6445,\1a&HFF&)}Şu çukurdan kurtulsam da zirveyi bi' solusam!
+Dialogue: 1,0:22:19.32,0:22:25.87,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}Şu çukurdan kurtulsam da zirveyi bi' solusam!
+Dialogue: 0,0:22:26.28,0:22:29.87,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(3440,3485,\1a&HFF&)}Vasat yetenek, sıradan sima
+Dialogue: 1,0:22:26.28,0:22:29.87,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}Vasat yetenek, sıradan sima
+Dialogue: 0,0:22:29.87,0:22:32.25,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(2230,2275,\1a&HFF&)}Durum vahim!
+Dialogue: 1,0:22:29.87,0:22:32.25,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}Durum vahim!
+Dialogue: 0,0:22:33.46,0:22:35.21,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(1600,1645,\1a&HFF&)}Ümitsiz kader
+Dialogue: 1,0:22:33.46,0:22:35.21,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}Ümitsiz kader
+Dialogue: 0,0:22:35.21,0:22:39.21,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(3850,3895,\1a&HFF&)}Zevkten sıyırmak, çeliyor aklımı!
+Dialogue: 1,0:22:35.21,0:22:39.21,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}Zevkten sıyırmak, çeliyor aklımı!
+Dialogue: 0,0:22:39.21,0:22:41.09,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(1730,1775,\1a&HFF&)}Kurtul gitsin!
+Dialogue: 1,0:22:39.21,0:22:41.09,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}Kurtul gitsin!
+Dialogue: 0,0:22:47.26,0:22:50.85,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(3440,3485,\1a&HFF&)}Temelli ardımda kalacaksınız
+Dialogue: 1,0:22:47.26,0:22:50.85,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}Temelli ardımda kalacaksınız
+Dialogue: 0,0:22:50.85,0:22:55.06,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(4060,4105,\1a&HFF&)}Tek başıma yükselip kendimi aşıca'm!
+Dialogue: 1,0:22:50.85,0:22:55.06,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}Tek başıma yükselip kendimi aşıca'm!
+Dialogue: 0,0:22:55.06,0:22:58.32,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(3120,3165,\1a&HFF&)}Bay bay zayıf günlerime
+Dialogue: 1,0:22:55.06,0:22:58.32,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}Bay bay zayıf günlerime
+Dialogue: 0,0:22:58.32,0:23:01.99,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(3510,3555,\1a&HFF&)}Kimse karşı koyamayacak
+Dialogue: 1,0:22:58.32,0:23:01.99,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}Kimse karşı koyamayacak
+Dialogue: 0,0:23:01.99,0:23:05.11,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(2980,3025,\1a&HFF&)}Bu uçsuz bucaksız devrime!
+Dialogue: 1,0:23:01.99,0:23:05.11,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}Bu uçsuz bucaksız devrime!
+Dialogue: 0,0:23:09.04,0:23:12.33,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(3150,3195,\1a&HFF&)}Hello, my braveness, rise and burst!
+Dialogue: 1,0:23:09.04,0:23:12.33,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}Hello, my braveness, rise and burst!
+Dialogue: 0,0:23:12.33,0:23:15.92,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(3440,3485,\1a&HFF&)}S sınıfı bir kurtuluş vadediyorum sana!
+Dialogue: 1,0:23:12.33,0:23:15.92,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}S sınıfı bir kurtuluş vadediyorum sana!
+Dialogue: 0,0:23:15.92,0:23:18.96,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(2900,2945,\1a&HFF&)}Koruyabilsem seni...
+Dialogue: 1,0:23:15.92,0:23:18.96,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}Koruyabilsem seni...
+Dialogue: 0,0:23:22.59,0:23:26.39,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(3640,3685,\1a&HFF&)}En zayıf şaheserin inişi...
+Dialogue: 1,0:23:22.59,0:23:26.39,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}En zayıf şaheserin inişi...
+Dialogue: 0,0:23:26.39,0:23:29.93,EDL,,0,0,0,,{\c&H000000&\1a&HFF&\blur0.8\fad(250,150)\t(205,250,\1a&H00&)\t(3400,3445,\1a&HFF&)}En güçlü şahsın yükselişi!
+Dialogue: 1,0:23:26.39,0:23:29.93,EDL,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(250,150)}En güçlü şahsın yükselişi!
