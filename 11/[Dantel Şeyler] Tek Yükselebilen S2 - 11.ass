@@ -13,6 +13,7 @@ Style: Alt,Amazon Ember,69,&H00FFFFFF,&H000000FF,&H00622D0B,&H5F000000,0,0,0,0,1
 Style: e-ts,Amazon Ember,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,0
 Style: OPL,Oxanium Light,77,&H00FFFFFF,&H00979797,&HC9000000,&H14000000,-1,0,0,0,100,100,0,0,1,4,0,2,50,50,37,1
 Style: EDL,Lato Light,69,&H00FFFFFF,&H000000FF,&H00000000,&H40000000,0,0,0,0,100,100,0,0,1,2,0,8,250,250,35,1
+Style: LV2,Lato Light,55,&H00FFFFFF,&H00FFFFFF,&H0085651E,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,1.5,0,7,50,50,32,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -236,6 +237,37 @@ Dialogue: 20,0:21:42.67,0:21:44.12,Default,,0,0,0,,İşimiz bitti.
 Dialogue: 20,0:21:52.70,0:21:53.76,Default,,0,0,0,,{\i1}Bu gölge...
 Dialogue: 20,0:21:54.44,0:21:56.21,Default,,0,0,0,,{\i1}...askerler de neyin nesi?
 Dialogue: 20,0:22:02.64,0:22:03.86,Default,,0,0,0,,Becayiş.
+Comment: 0,0:14:31.98,0:14:35.19,LV2,,0,0,0,,{INS S01}
+Dialogue: 10,0:14:31.98,0:14:35.19,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Vakti geldi
+Dialogue: 10,0:14:36.15,0:14:41.53,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Vazgeçelim neşeden
+Dialogue: 10,0:14:43.53,0:14:46.24,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Peki dinleme sözlerimi
+Dialogue: 10,0:14:46.24,0:14:49.37,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Benden çıksın da huzur bulayım
+Dialogue: 10,0:14:49.54,0:14:55.29,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Korkuyorsun birbirimize benzememize
+Dialogue: 10,0:14:55.29,0:14:58.29,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Bunu hiç aşamadım
+Dialogue: 10,0:14:59.09,0:15:01.09,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Oyunun sonu
+Dialogue: 10,0:15:01.09,0:15:04.47,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Huzurun başlangıcı
+Dialogue: 10,0:15:06.26,0:15:08.93,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Peşimdeki azrail
+Dialogue: 10,0:15:09.47,0:15:12.35,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Bir şeyleri değiştir
+Dialogue: 10,0:15:12.35,0:15:16.10,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Peri masalı gibi hayatlar varken
+Dialogue: 10,0:15:16.10,0:15:18.40,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Bana düşen bu trajedi
+Dialogue: 10,0:15:18.40,0:15:20.73,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Boşa beklettim seni
+Dialogue: 10,0:15:21.44,0:15:24.36,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Bitmek bilmedi bi'
+Dialogue: 10,0:15:24.36,0:15:26.66,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Lütfen arındır beni
+Dialogue: 10,0:15:26.66,0:15:30.49,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Kanatların yükümü hafifletsin
+Dialogue: 10,0:15:42.17,0:15:44.97,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Peşimdeki azrail
+Dialogue: 10,0:15:45.22,0:15:48.18,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Bir şeyleri değiştir
+Dialogue: 10,0:15:48.18,0:15:51.81,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Peri masalı gibi hayatlar varken
+Dialogue: 10,0:15:51.81,0:15:54.27,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Bana düşen bu trajedi
+Dialogue: 10,0:15:54.27,0:15:57.27,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Boşa beklettim seni
+Dialogue: 10,0:15:57.27,0:15:59.81,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Bitmek bilmedi bi'
+Dialogue: 10,0:16:00.32,0:16:02.44,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Lütfen arındır beni
+Dialogue: 10,0:16:02.44,0:16:06.82,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Kanatların yükümü hafifletsin
+Dialogue: 10,0:16:06.82,0:16:10.99,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Sualidir aşkımın
+Dialogue: 10,0:16:12.08,0:16:15.58,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Kayıp giden elimden
+Dialogue: 10,0:16:15.58,0:16:18.71,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Ve dönüşen toza
+Dialogue: 10,0:16:18.71,0:16:23.84,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Sualidir aşkımın
+Dialogue: 10,0:16:23.84,0:16:27.84,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Kayıp giden elimden
+Dialogue: 10,0:16:27.84,0:16:33.85,LV2,,0,0,0,,{\fad(240,120)\blur0.6}Ve dönüşen toza
 Comment: 0,0:00:00.00,0:00:00.02,e-ts,,0,0,0,,{yazı dizimi}
 Dialogue: 0,0:07:57.91,0:08:02.42,e-ts,,0,0,0,,{\an7\move(0,0,46.42,0.19,26,4489)\c&H0FA8F7&\blur3\t(26,4489,\clip)\t(26,4489,\fscx100)\t(26,4489,\fscy100)\clip\p1}m 302 860 l 656 786 670 855 647 861 653 889 319 961
 Dialogue: 1,0:07:57.91,0:08:02.42,e-ts,,0,0,0,,{\move(486.5,871.27,532.92,871.46,26,4489)\fscy110\frz11.83\fax0.08\fnAmazon Ember Heavy\fs53\c&HFCF7F8&\blur1\t(26,4489,\clip)\t(26,4489,\fscx100)\t(26,4489,\fscy110)\clip}Canlı yayın
